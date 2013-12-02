@@ -1,0 +1,2833 @@
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 1 of 33
+
+Exhibit A
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 2 of 33
+
+SUPPLEMENTAL/REBUTTAL EXPERT REPORT 
+OF P.J. ERIC STALLARD, A.S.A., M.A.A.A., F.C.A.
+
+In re W.R. Grace & Co., et al.
+
+September 25, 2007
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 3 of 33
+
+PURPOSE
+
+This document  is my  supplemental/rebuttal  expert  report  for  the W.R. Grace & Co., et al., Case 
+No. 01-1139 (JKF).  
+
+The  report  has  two  parts.    In  Part  I,  I  offer  my  opinions  on  the  assumptions,  methods, and 
+procedures used by B. Thomas Florence, Ph.D., in making his est imates of the number and value 
+of pending and future asbestos personal injury claims. 
+
+These opinions  reflect  my  experience in  data  analysis,  statist ical  est imat ion,  modeling, and 
+forecast ing  in  the  areas  o f  population  health  and  aging,  with  specific  expertise  in  the 
+epidemio logy and modeling of asbestos-related diseases and claims.   I approached  this  task with 
+a  level  of  scrutiny  similar  to  what  I  would  apply  in  conduct ing scient ific  peer-review  for 
+submissions  to professional  journals in my  field.    In  scient ific peer-review  there are o ften one or 
+two other reviewers with complementary areas of expert ise.   This  is also  the case with respect  to 
+the  Florence  rebuttal  reports,  with  Victor  L.  Roggli,  M.D., opining on  medical  criteria  and 
+Jennifer L. Biggs, F.S.A., M.A.A.A., opining on actuarial aspects, both of which complement my 
+report.  
+
+In Part  II,  I present  supplemental project ions  o f  the  number  of male  claims  against  the Manville 
+Trust  by disease,  date  of  first  exposure,  and  date  of  claim  for  the  period  2005–2009  through 
+2055–2059.  I  also  provided  these  supplemental  project ions  to  Jennifer  L.  Biggs  for  use  in  her 
+supplemental/rebuttal expert report dated September 25, 2007.  
+
+I  was  asked  to  prepare  this  report  on  behalf  of  David  T.  Austern,  the  Court-Appointed  Future 
+Claimants’ Representative.  
+
+I  reserve  the  right  to modify  this report as new  information becomes  available between now  and 
+the  time  o f  trial.    I  anticipate  that  I  will  review  the  supplemental/rebuttal  expert  reports  of 
+opposing experts and may o ffer my opinions about their analyses and conclusions in a rebuttal or 
+supplemental report or at trial.  
+
+INFORMATION CONSIDERED
+
+PART I
+
+1. B. Thomas Florence.  “Est imat ion of the Number and Value o f Pending and Future Asbestos-
+Related Personal  Injury Claims:   W.R. Grace.”   Expert Report  for  the W.R. Grace & Co., et 
+al., Case No. 01-1139 (JKF), June 18, 2007.  
+2. B. Thomas Florence.  Reliance material for “Est imation o f the Number and Value of Pending 
+and  Future  Asbestos-Related  Personal  Injury  Claims:   W.R.  Grace.”    Expert  Report  for  the 
+W.R. Grace & Co., et al., Case No. 01-1139 (JKF), June 18, 2007.  
+3. Jennifer  L.  Biggs.    “Est imat ion  of  Asbestos  Personal  Injury  Liabilit ies  o f  W.R.  Grace  as  of 
+April  2,  2001.”  Expert  Estimat ion  Report  of  Jennifer  L.  Biggs,  FCAS, MAAA, In  Re: W.R. 
+Grace & Co., et al., June 18, 2007.  
+4. Mark A. Peterson.  “W.R. Grace Projected Liabilit ies for Asbestos Personal Injury Claims As 
+of April  2001.”    Expert  Report  for  the W.R.  Grace  &  Co.,  et  al.,  Case  No.  01-1139  (JKF), 
+June 2007.  
+
+2
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 4 of 33
+
+5. Victor L. Roggli.   “Supplemental/Rebuttal Expert Report of Victor L. Roggli, M.D.” Expert 
+Report for the W.R. Grace & Co., et al., Case No. 01-1139 (JKF), July 31, 2007.  
+6. U.S. Senate.    ‘‘Fairness  in Asbestos  Injury Reso lution Act  of  2005.’’ Bill No. S. 852, April 
+19, 2005.  
+7. Thomas  N.  Herzog.    “Introduction  to  Credibility  Theory:  Third  Edit ion.”  ACTEX 
+Publicat ions, Winsted, CT, 1999.  
+8. Thomas  Vasquez.    “Est imat ion  of  Company  Liability  Personal  Injury:  Vo lume  I.”    KPMG 
+Peat Marwick Policy Economics Group, 1991.  
+9. William  J.  Nicho lson,  George  Perkel,  and  Irving  J.  Selikoff.    “Occupat ional  Exposure  to 
+Asbestos:  Populat ion  at  Risk  and  Projected  Mortality  – 1980–2030.”    American  Journal  of 
+Industrial Medicine 3: 259–311, 1982.  
+10. Elizabeth  L.  Anderson.    “The  Scient ific  Credibility  o f  Personal  Injury  Claims  Related  to 
+Alleged  Exposure  to  W.R.  Grace  Asbestos-Containing  Products.”    Supplemental  Expert 
+Report for the W.R. Grace & Co., et al., Case No. 01-1139 (JKF), June 11, 2007.  
+11. Board  of  Trustees  of  the  Social  Security Trust  Funds.    “The  2007  Annual  Report  of  The 
+Board  of  Trustees  of  The  Federal  Old-Age  and  Survivors  Insurance  and  Federal  Disabilit y 
+Insurance Trust Funds.” U.S. GPO, Washington, DC, 2007.  
+12. David Weill.    “Expert  Report  of  David Weill,  M.D.”    Expert  Report  for  the W.R.  Grace  & 
+Co., et al., Case No. 01-1139 (JKF), October 3, 2006.  
+13. Eric  Stallard,  Kenneth  G.  Manton,  and  Joel  E.  Cohen.    “Forecasting  Product  Liabilit y 
+Claims:   Epidemio logy and Modeling  in  the Manville Asbestos Case.” Springer, New York, 
+2005.  
+14. Stephen  J. Carroll, Deborah Hensler,  Jennifer Gross, Elizabeth M. Sloss, Matthias Schonlau, 
+Allan  Abrahamse,  J.  Scott  Ashwood.    “Asbestos  Lit igat ion.”  RAND,  Santa  Monica,  CA, 
+2005.  (The 2005 RAND Report)  
+15. Daniel  Myer.  Transcript  of  Test imony  in  the  Armstrong Confirmat ion  Hearing, May  23, 
+2006.  
+16. Lester Brickman. Transcript of Test imony  in  the Armstrong Confirmat ion Hearing, May 23, 
+2006.  
+17. Elli Leibenstein. Email to counsel for the Future Claimants’ Representative, dated September 
+17, 2007 1:19 PM.
+18. Frederick C. Dunbar.  “Report of Frederick C. Dunbar.”  Expert Report for the W.R. Grace & 
+Co., et al., Case No. 01-1139 (JKF), June 18, 2007.  
+
+STATEMENT OF OPINIONS 
+
+1. The  methods  and  procedures  used  by  B.  Thomas  Florence  were  inappropriate  for  the  stated 
+goal o f making  est imates  of  the  total  number  and  value  of  pending  and  future asbestos 
+personal  injury  claims  against W.R.  Grace  (“Grace”)  as  of  April  2,  2001  because  they  were 
+designed  to  produce  an  est imated  value  which  was  not  a  complete  est imate  of  Grace’s 
+liability. Florence’s  est imated  value  was  fundamentally  different  from  (a)  the  est imated 
+values  of  Grace’s  liability  reported  by Biggs  and  Peterson,  respectively,  in  their  expert 
+reports  submitted  in  June  2007  and  (b)  the  values  reported  by  Florence  in  Sect ions  1.0  and 
+1.1  of his  report  describing  other work  he  himself  has  performed in  the  area  of  valuing  and 
+estimat ing asbestos liabilit ies in connect ion with asbestos trusts and manufacturers.  
+
+3
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 5 of 33
+
+This  opinion  is  based  on  Florence’s  descript ions  of  the  est imat ion  task  that  he was  asked  to 
+perform, which  clearly  indicate  that Florence’s estimates excluded  large numbers o f pending 
+and future claims and associated costs:  
+In  the  first  sentence  of  his  report  (Section  1.0)  he  stated  that  his  company  (ARPC)  “… 
+•
+was  asked  to  prepare  an  est imate  of  the  number  and  value  o f  valid  pending  and  future 
+asbestos-related  personal  injury  claims  under  assumpt ions  regarding  the  evidence 
+required to demonstrate the validity o f the claims.”  
+• On  page  2  (Section  1.2),  he  stated:  “These  assumpt ions  are  based  on  the  premise  that 
+only  claimants  whose  claims  met  the  fo llowing  criteria  would  be  able  to  sustain  their 
+burden  o f  proof  that  their  claims  against  Grace  are  valid,  and  therefore,  their  claims 
+should  be  valued  as  part  of  the  est imation  process:  …”    Fo llowing  a  list ing  of  seven 
+“evident iary  criteria”,  he  commented:    “In  a  typical asbestos  bankruptcy est imat ion,  the 
+informat ion  necessary  for  determining which  claims would meet  these  criteria would  not 
+be available.”   He  then cited  the Court ordered requirements for pending claimants  to file 
+PIQs  and  POCs,  and  commented  (on  page  3):  “The  data  gleaned  from  these  two 
+requirements allowed the estimat ion of valid Grace claims based on the above criteria.” 
+• On  page  3  (Section  2.0),  he  began  his  Opinion  with:    “ARPC  estimated  the  Grace 
+pending  and  future  asbestos  personal
+injury  claim  liability  under  the  specified 
+assumpt ions.”  He then referred to the criteria on page 2 as the “evidentiary criteria.”
+• On page 6 (Sect ion 4.0), he began his descript ion of the Pending Claims Est imat ion with:  
+“Grace asked ARPC  to assume  that only  the claimants whose claims met specific criteria 
+will  be  able  to  sustain  their  burden  of  proof  that  the  claims  against  Grace  are  valid  and 
+therefore compensable.”  
+• On  page  8  (Section  4.2.2),  Florence  stated:    “ARPC  was  asked  to  assume  that  only 
+historical  pending  claimants  whose  claims  also met  the  fo llowing  criteria would  be  able 
+to  sustain  their  burden  of  proof  that  their  claims  against  Grace  are  valid,  and  therefore, 
+their  claims  should  be  valued  as  part  of  the  estimation  process: …”  after which  he  listed 
+the Grace exposure criteria.
+• On  page  16  (Section  5.1), Florence  stated:    “Grace  asked ARPC  to  assume  that  only  the 
+claimants whose  claims met  specific  criteria will  be  able  to  sustain  their  burden  of proof 
+that the claims against Grace are valid and therefore compensable.”  
+• On  page  21  (Sect ion  7.0),  he  began  his  Conclusion  with:  “ARPC  was  asked  to  estimate 
+the Grace  number  and  value  of  pending  and  future  asbestos  personal  injury  claims  under 
+the  assumpt ion  that only  claimants whose  claims met  the  required  criteria will  be  able  to 
+sustain  their burden of proof  that  their claims against Grace are valid, and  therefore,  their 
+claims should be valued as part of the estimat ion process.”
+
+Taken  together,  these  statements  indicate  that  Florence’s  methods  and  procedures  were 
+designed  to  exclude  all  pending  and  future  claims  and  associated  costs  relat ing  to  claimants 
+who  would  not  be  expected  to  meet  the  required  “evident iary  criteria”.    Moreover,  they 
+indicate  that  Grace,  not  Florence,  was  responsible  for  the  specificat ion  o f  the  assumpt ions 
+regarding  the evident iary criteria used  to  include or exclude  these claims from  the est imation 
+procedure.  
+
+Florence’s est imates are based on the unsupported assumpt ion (page 21) that “only claimants 
+whose  claims met  the  required  criteria will  be  able  to  sustain  their  burden  of proof  that  their 
+claims  against  Grace  are  valid,  and  therefore,  their  claims  should  be  valued  as  part  of  the 
+estimat ion  process.”    As  further  explained  on  pages  6  and  16,  these  would  be  the  only 
+4
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 6 of 33
+
+claimants  whose  claims  “against  Grace  are  valid  and  therefore  compensable.”    It  fo llows 
+logically  that  all  excluded  claims would  be  noncompensable with  zero-dollar  liability  values 
+in the tort system from April 2, 2001 onward.  
+
+Florence  took  no  responsibility  for  these  assumptions;  he  accepted  Grace’s  assumpt ions 
+without  comment ing  on  their  appropriateness  for  the  task  of  est imat ing  the  total  value  of 
+Grace’s asbestos-related personal injury liabilit ies.  
+
+Most  importantly,  Florence  o ffered  no  evidence  that  the  claims  excluded  from  his  estimates 
+could  be  reasonably  expected  to  be  noncompensable  with  zero-dollar  liability  values  in  the 
+tort system from April 2, 2001 onward.
+
+Given  his  extensive  and  lengthy  experience  in  estimat ing  asbestos  liabilit ies  in  connection 
+with more  than  20  asbestos  manufacturers  and  trusts  (page  1)  and  the  crit ical  role  o f  the 
+assumpt ion  that  these  claims  would  be  noncompensable  with  zero-dollar  liability  values  in 
+the  tort  system  from  April  2,  2001  onward,  I  expected  him to  provide  some  evidence  that 
+these excluded claims would be noncompensable.  The fact that he did not do so supports my 
+opinion that his est imates of Grace’s liability are incomplete.  
+
+Victor  L.  Roggli,  M.D.  reviewed  the  evident iary  criteria  used  by  Florence  and  concluded 
+that:  “these  criteria  are  not medically  sound,  and  any  estimate  based  on  these  criteria  would 
+be  flawed.”    (Roggli,  2007,  page  1).   Moreover,  I  am  unaware  of  any  tort  reform  proposals 
+that  would  result  in  limit ing  “valid  claims” to  those  that  meet  the  evidentiary  criteria 
+specified by Grace and fo llowed by Florence. 
+
+To  the extent  that  the claims  excluded  by  Florence  from  his  est imates would  have  a  liability 
+consistent  with  their  historical  values  in  the  tort  system,  the  estimates  reported  by  Florence 
+are  significantly  and  materially  downward-biased.    Indeed,  using  the  difference  between 
+Florence’s estimated values o f Grace’s  liability and  those reported by Biggs or Peterson, one 
+can show  that  the excluded costs constitute a  large majority of Grace’s  liability as of April 2, 
+2001.  
+
+Because  Florence’s  est imates  excluded  large  numbers  o f  claims  and  associated  costs,  these 
+estimates  are  unscient ific,  downwardly  biased,  and  of  no  assistance  to  the  Court  for  the 
+purpose  of  determining Grace’s  total liability  fo r  asbestos-related  personal  injuries  as  o f 
+April 2, 2001.  
+
+2. The  methods  and  procedures  used  by  Florence  were  inappropriate  for  the  goal  of  making 
+estimates of the value of the pending and future asbestos personal injury claims against Grace 
+as  of  April  2,  2001  among  claimants  who  could  meet  the  evident iary  criteria  specified  by 
+Grace.  
+
+This  opinion  is  based  on  a  fundamental  inconsistency  between  the methods  used  to  estimate 
+the  number  of  claims  that  would  receive  indemnity  payments  and  the  methods  used  to 
+estimate the average values of those indemnity payments.  
+
+My  understanding  o f  the  requirements  of  the  estimat ion  phase  of  the  trial  is  that  the 
+estimat ion o f Grace’s pending and future liabilit ies relating to asbestos personal injury claims 
+5
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 7 of 33
+
+must  be  conducted  under  a  “no-bankruptcy”  assumpt ion  whereby  the  estimat ion  procedure 
+assumes  that  the Grace bankruptcy filing on April 2, 2001 did not occur and  that new claims 
+would  have  cont inued  to  be  filed  and  settled,  along  with  pending  claims,  through  the  tort 
+system.  
+
+My understanding of  the reason for  the “no-bankruptcy” assumpt ion  is  that  it allows  the  total 
+value  of  Grace’s  pending  and  future  liabilit ies  relating  to  asbestos  personal  injury  claims  to 
+be  est imated  and  treated  as  if  it had  become  fixed  immediately  before  the  filing  o f  the 
+bankruptcy pet ition,  and  in  a  manner  that  would  not  be  influenced  by  the  fact  that  the 
+bankruptcy pet it ion  was  filed  on  April  2,  2001,  or  on  any  date  thereafter,  or  not  at  all.  
+Equivalently,  my  understanding  is  that  the  est imation  o f  the  total value  of  those  liabilit ies 
+should  be  conducted  without  consideration  o f  the  protections  o ffered  to  Grace  through 
+bankruptcy and without regard to the resources that Grace may ho ld to offset those liabilit ies.  
+
+The  generally  accepted  approach  to  constructing  an  estimat ion  model  under  the  “no-
+bankruptcy” assumpt ion would be  to assume  that  the  filing and settlement process beginning 
+at  the  date  of  the  bankruptcy petit ion  would  be  a  continuat ion  of  the  filing  and  settlement 
+process  in  place  immediately  before  the  filing  of  the  bankruptcy  petit ion,  with due 
+consideration  given  to  changes  in  the  tort  system  that  have  occurred  during  the  bankruptcy 
+period  from 2001  to  the  present  as  well  as  to  changes  that  can  be  reasonably  ant icipated  in 
+future  years.    This  was  the  approach  used  by  Biggs  and  Peterson  in  their  June  2007  expert 
+reports.
+
+In  contrast,  as  noted  above  in  Opinion  1,  Florence’s  est imates  were  based  on  the  flawed 
+assumpt ion – dictated  to  him  by  Grace  – that  the only  claimants  who  would  receive 
+indemnity payments during  the bankruptcy period  from 2001  to  the present, and  in all  future 
+years, would be those who could meet the evident iary criteria now specified by Grace, which 
+are  contrary to  the  criteria  Grace  actually  used  to  settle  cases  pre-bankruptcy.    This 
+assumpt ion  represented  a  radical  departure  from  the  filing  and  settlement  criteria in  place 
+immediately before the filing o f the bankruptcy petit ion.  
+
+The assumption that the historical claim settlement procedures in effect prior to April 2, 2001 
+would be  replaced by  the ent irely new and unprecedented claim  settlement procedures based 
+on Grace’s  specified  evident iary  criteria  was  implicit  in  Florence’s  report. Florence  did  not 
+discuss  it  and  it  would  not  be  apparent  that  such  an  assumption  had  been  made  without  the 
+simultaneous  recognit ion  that  the  no-bankruptcy  assumpt ion  was  a  requirement  of  the 
+estimat ion phase of the bankruptcy proceeding.  
+
+Explicit considerat ion  o f  this  implic it assumpt ion  reveals  a  fundamental
+inconsistency 
+between  the  methods  used  to  estimate  the  number  of  claims  that  would  receive  indemnit y 
+payments and the methods used to estimate the average values of those indemnity payments.  
+
+Florence  provided  a  descript ion  of  how  the  number  o f compensable  pending  and  future 
+claims  would  be  changed  under  the  new  claim  settlement  procedure  but  he  implicit ly 
+assumed that the average value of the indemnity payments awarded to those claims would not 
+change as a result of the new procedures from their inflat ion-adjusted historical values.  
+
+6
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 8 of 33
+
+Specifically:  
+“To  value  the  est imated  pending  malignancy  claims,  ARPC  analyzed  Grace’s  historical 
+•
+settlement data …  in  the Closed Claim sample  that met  the criteria  ...” (page 15).   In  this 
+case, “malignancy” referred only to mesothelioma and lung cancer.
+• To  value  the  est imated  pending  malignancy  claims,  the  historical  average  settlement 
+values  during April  1999  to April  2001 were  adjusted  for  inflat ion  at  2.5%  per  year  and 
+all values were converted to 2001 dollars.  (page 15)  
+• To value the est imated pending nonmalignancy claims and other-cancer claims (i.e., other 
+than  mesothelioma  and  lung  cancer),  ARPC  applied  historical  cost  factors  from  four 
+trusts to lung cancer settlement values.  (page 15)  
+• To  value  the  est imated  future  claims  for  all  diseases,  the  historical  average  disease-
+specific  settlement  values  were  init ially  expressed  in  2001  do llars  and  were  adjusted  for 
+subsequent  inflat ion at 2.5% per year  through 2007 and 1.0% per year  thereafter.   (pages 
+18–19)  
+
+The  inflat ion-adjusted  settlement  values  were  based  on  the  historical settlement  experience 
+for  a  subset  of  claims  in  the  tort  system  preceding  the  Grace  bankruptcy  filing  that  would 
+have  met  the  new  evident iary  criteria  specified  by  Grace,  had  those  criteria  been  applied  at 
+the  time  those  claims were  settled.  However,  inflat ion-adjusted  historical  settlement  values 
+are not appropriate for  the est imat ion of  the future costs of similar claims under substant ially 
+different  settlement  condit ions  such  as  those  that  would  have  occurred  had  the  new  claim 
+settlement  procedures  based  on Grace’s  evident iary  criteria  been  implemented  as  of April  2, 
+2001.1  
+
+To  the extent  that  the settlement conditions were substantially altered, my expectation would 
+be  that  the  average  payments would  also  be  substant ially  altered.    The  size  and  direct ion  o f 
+the  changes  would  depend  on  the  changes  in  the  settlement  conditions.    Given  the  highly 
+restrict ive form o f Grace’s proposed evident iary criteria, my expectation would be that Grace 
+would  have  a  greater  share  o f  the  total  liability  for  claims  meet ing  those  criteria,  with  the 
+average payments to those claimants  increasing substantially.  
+
+The crit ical quest ion is how large would the  increases be?  
+
+Florence  implicit ly assumed that the size of the changes would be zero for mesothelioma and 
+lung  cancer  claims,2 yielding  the  values  of  $135,860  and  $34,673,  respectively, in  his  Table 
+4-12.  To be sure, he only used historical claims that met Grace's new evident iary criteria, but 
+those historical claims do not reflect  the higher portion of  the  total  liability  that Grace would 
+bear on those claims. 
+
+It  is  informat ive  to  illustrate  the  potential  changes  that  might  occur  if  one  used  a  more
+reasonable,  but  still  conservat ive, set  of alternative  values  for  claimants  who  would  meet  
+Grace’s criteria but not  those of any other asbestos defendant.   Such values could be derived 
+from the 2005 Senate Bill S. 852 (pages 92–93) which listed a scheduled value o f $1,100,000 
+
+ 
+ 
+1 Inflation-adjusted  historical  settlement  values  are  appropriate  for  the  estimation  of  the  future  costs  of  similar 
+claims under a continuation of the historical claim settlement procedures.  
+2 The claim values for other diseases were based on the value for lung cancer (page 15).  
+7
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 9 of 33
+
+for mesothelioma, and a set of  three scheduled values – $600,000, $975,000, and $1,100,000 
+– for lung cancer, with the specific award dependent on smoking status.  
+
+Addit ional adjustments could be developed to account for claimants who met Grace’s criteria 
+and  also  met  those  of one  or  more  other  asbestos  defendants,  under  the  conservative 
+assumpt ion  that  the S. 852 values  represented  the  total  amounts  that would be  awarded  from 
+all defendants.  This assumption  is conservat ive because there is considerable evidence in the 
+public domain that the settlement amounts set forth in S. 852 are far lower than what asbestos 
+claimants actually co llect in total from all defendants, particularly for mesothelioma claims.  
+
+For  example,  during  the  Armstrong confirmat ion  hearing  in  May  2006,  Daniel  Myer,  a 
+claims settlement negotiator who was currently settling cases for Union Carbide and who has 
+settled  over  400,000  asbestos  personal  injury  claims  in  his  career  for  asbestos  defendants, 
+testified  that  the  ‘total  gross  value”  of  a  typical  mesothelioma  case  (i.e.  the  sum  paid  by  all 
+defendants  to  the  plaint iff  to  settle  the  case)  in  2006  was  between  $5  and  $8  million,  as 
+compared  to  $2.5  to  $3.5  million in  1999–2000  (Armstrong 5/23/06  AM  Transcript,  pages 
+26–27).    At  the  same  hearing,  Lester  Brickman,  who  is  well  known  in  the  field  of  asbestos 
+lit igat ion, agreed  that mesothelioma values have  roughly doubled between  the year 2000 and 
+2006 (Armstrong 5/25/06 PM Transcript, page 98).  Thus, the settlement amounts set forth in 
+S.  852 in  2005  were  far  below  the  values  cited  by  Myer  for  a  period  five  years  earlier,  and 
+they took  no  account  of  an  approximate  doubling  since  that  time cited  by  both  Myer  and 
+Brickman.  
+
+The  settlement  amounts  set  forth  in  S.  852 in  2005  appear  even  more  conservat ive  when 
+compared  with jury-verdict  amounts.    For  example,  a 2005  RAND  report  noted  that  the 
+average  jury  verdict  in  mesothelioma  cases  over  the  1993–2001  t ime  period  was  almost  $4 
+million,  rising  to  over  $6  million  in  2001  (the  most  recent  year  for  which  data  was  cited  in 
+the report) (Carroll et al., 2005, pages 53–54).3  The same report also noted that “it  is widely 
+assumed  that  trends  in  settlement  values  o f  cases  reflect  trends  in  jury  awards  (perhaps with 
+some lag).”  (Carroll et al., 2005, page 49).
+
+There  is  no  recognit ion  in  Florence’s  report  of  the  need  to  estimate  the  changes  in  average 
+payments that would result from the implementation of Grace’s new and much more rigorous
+criteria.  
+
+Using  the  conservative  S.  852  average  values  as  a  proxy for  the  average settlement  values 
+under  Grace's  new  criteria,  Grace's  total  liability  is  many  times  higher  than  the  value 
+calculated by Florence:  
+
+• For  mesothelioma,  S.  852’s  scheduled  value  is  7.34  times  larger  than Florence’s 
+value, after adjusting for inflat ion during 2001–2005; 
+
+ 
+ 
+3 The  same  source also  reported that  asbestosis  verdicts  during  the  same  time  period  were  $1.63 million,  nearly 
+double  that  of  S.  852’s  highest  scheduled  value  for  asbestosis  ($850,000).   Lung  cancer  values were  included with 
+other  non-mesothelioma  malignant  diseases  in  the  combined  category  “other  cancers”,  with  average  verdicts  of 
+$1.33  million,  more  than  20%  above  the  highest  of  S.  852’s  scheduled  three  values  ($600,000,  $975,000,  and 
+$1,100,000)  for  lung cancer, and more  than double  the  lowest value  ($600,000)  selected  for  illustrative purposes  for  
+this opinion.  
+
+8
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 10 of 33
+
+• For  lung  cancer,  the  corresponding  inflat ion-adjusted  ratios  are  15.68,  25.48,  and 
+28.74,  respectively,  for  the  three  smoking  statuses.    Applying  the  7.34  mult iplier  for 
+mesothelioma  and  the  smallest of the  three  mult ipliers for  lung  cancer (15.68)  to  the 
+median pro ject ions  in Florence’s Table 6-3 yields a  total pro ject ion o f $7.708 billion,  
+10.8 times larger than Florence’s project ion of $712 million.  
+
+An  alternat ive  set  of  assumpt ions  based  on  Grace’s  actual  trial  history was  employed  by
+Peterson  in  his  June  2007  expert  report  (pages  95–96).   These calculat ions  indicated  that  the 
+total liabilit ies  for  pending  and  future  claims  could  be  in  the  range  of  $30–40  billion, which 
+would  be  42–56  t imes  larger  than  Florence’s  project ion  o f  $712  million,  but  with  the 
+liabilit ies for pending claims increased by a smaller mult iplier in the range of 7–8.  
+
+Peterson  (pages  39–41 in  his  June  2007  expert  report)  presented  a  compelling  case  why  the 
+bottom end  o f  the  range would  not  be  below  1.0,  i.e.,  below  100%  of  the  historical  average 
+settlement values.   There  he documented “the  inseparability of payment  rates  and  settlement  
+values”  under  which  the  individual  claim  settlement  amounts  are posit ively  correlated  with 
+the quality or strength of  the claims in such a way  that stronger claims generally have  higher 
+settlement  values.    E liminat ing weaker  claims  based  on  criteria  like  those  assumed  by 
+Florence  would  necessarily  retain for  payment  a  subset  of  stronger  claims  whose  average 
+payments  would  be greater  than  the  combined  average  for both  types  of  claims,  which, 
+before adjusting for inflat ion, is equal to 100% of the historical average settlement values.
+
+Thus,  the  uncertainty  o f  the  range  is  effect ively  restricted  to  the  upper  limit,  e.g.,  to  a 
+mult iplier such as 7, 8, 10.8, 42, or 56 as indicated above.  
+
+These  comparisons  indicate  that  the  locat ion  of  the  upper  end  o f  the  relat ive  range  o f 
+uncertainty  is  itself  highly  uncertain  and  can  vary  substant ially  depending  on  the  specific 
+assumpt ions  used  in  its calculat ion.    The  calculations  indicate  that  the  relat ive  range  o f 
+uncertainty  is  large,  e.g.,  at  least  7  to  1,  but  they  do  not  allow  one  to  quantify  its  size  with 
+confidence.   Indeed,  the relat ive range of uncertainty (7, 8, 10.8, 42, or 56 to 1, from high to 
+low)  is  so  large  that  it  renders  Florence’s  project ions  useless  for  purposes  of  informing  the 
+estimat ion process.  
+
+Florence’s  assumpt ion  that  there  would  be  no  change  in  the  size  o f  the  historic  average 
+settlement values  for mesothelioma and  lung cancer claims that met Grace's new criteria was 
+equivalent  to  assuming  that  the  appropriate  adjustment  factor was  at  the extreme lower  limit  
+of  an  extraordinarily  large  uncertainty  range.    Given  the  extraordinarily  large  size  of  this 
+uncertainty  range,  I  conclude  that  Florence’s  assumpt ion  was  biased  and his  est imate  is 
+useless and highly misleading.  
+
+3. The  data  used  by  Florence  to  estimate  the  average  values  of  historical  settlement  amounts 
+paid to claimants who could meet the evident iary criteria specified by Grace were inadequate 
+for  that  purpose.    Specifically,  the  statistical  sampling  methods  used  by  Florence  yielded 
+sample  sizes  that  were  inadequate  for  the  purpose  of  generat ing  reliable  est imates  o f  the 
+
+9
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 11 of 33
+
+average values among the targeted population consist ing of all claimants who could have met  
+the evident iary criteria specified by Grace.4  
+
+This opinion  is based on my  review of  the data contained  in  the Excel workbook “Settlement  
+averages in Sample Apr99 to Apr00.xls” provided in Florence’s reliance materials.  
+
+Tabulat ions of  those data revealed  that  the average values of $135,860 for mesothelioma and 
+$34,673  for  lung  cancer were based on  sample  sizes of 21  claims  and 7  claims,  respectively.   
+The average values were  reported by Florence in his Table 4-12.   However,  the sample sizes 
+were  not  reported  nor  was  there  any  discussion  of the  fact  that  these  sample  sizes  were 
+inadequate for the purposes of generat ing reliable estimates of the average values.  
+
+The  generally  accepted  standard  for  full  credibility  in  actuarial  pract ice  is  a  sample  size  o f 
+1,082 claims (Herzog, 1999, pages 59–60).5 The 1,082-standard  is designed  to yield average 
+values  that  are within  ±5%  of  the  true  values  “most  of  the  t ime”,  where  the  latter  condition 
+was  operationalized  to  mean  90%  of  the  time.    This  is  a  technical  concept  that  can  be 
+understood  by stating  that  actuaries  who  used  the  1,082-standard  throughout  their  careers 
+could  expect  that  about  90%  of  their  est imates  would  fall  within  ±5%  o f  the  true  values, 
+assuming that the true values eventually became known to them so that this assessment could 
+be conducted.
+
+The  1,082-standard  is  51.5  times  larger  than  Florence’s  mesothelioma  sample  size  o f  21 
+claims  and  154.6  times  larger  than  Florence’s  lung  cancer  sample  size  of  7.    Thus,  I  would 
+have expected  that Florence would have provided some acknowledgement and/or assessment 
+of the potential impact on his analysis of such small sample sizes.  
+
+The  impact  of  the  small  sample  size  can  be  represented  by  considering  how  much  the  ±5%  
+error  tolerance  in  the  1,082-standard  would  need  to  be  increased  to  match  the  condit ion  in 
+that standard that the average values must be within ±X% of the true values 90% of the time.   
+Under  the  so-called  “normal  approximat ion,”  Florence’s  data  indicate  that  X  =  47.6  for 
+mesothelioma and 58.9 for lung cancer.  
+
+In other words, Florence’s data would have allowed him  to state with a  reasonable degree of 
+confidence  that  the  est imated  average  value  o f  $135,860  for  mesothelioma  was  within 
+±47.6%  of  the  true  value  among  claimants  who  could  have  met  the  evident iary  criteria 
+specified  by  Grace;  and  with  an  equivalent  level  of  confidence  that  the  estimated  average 
+value  of  $34,673  for  lung  cancer  was  within  ±58.9%  of  the  true  value  among  the  same 
+claimants.  This  is an extraordinarily large uncertainty range. 
+
+ 
+ 
+4 Opinion 3 differs  from Opinion 2  in the  following way.   Even  if  reliable estimates of  the average historical values 
+could be generated, Opinion 2 states  that such estimates would be  inappropriate  for  the goal of making estimates of 
+the value of the pending and future asbestos personal injury claims against Grace because they would not include the 
+changes  in  the  historical  values  that  would  occur  as  a  result  of  the  assumed  changes  in  the  settlement  conditions.  
+Opinion 3 states that Florence’s report failed to provide reliable estimates of the average historical values.  
+5 Frequently, however, it is necessary to work with smaller sample sizes in which case the analyst would determine 
+whether the smaller sample size materially impacted the reliability of the resulting estimates and, if so, would make 
+appropriate adjustments to deal with the effects.  Here, it was not necessary to use a sample less than 1,082 and, in 
+any case, Florence made no appropriate adjustment.  
+
+10
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 12 of 33
+
+Florence's error tolerances are 9.5 and 11.8  times  larger,  respectively,  than  the standard ±5% 
+error  tolerance.    These  very  large  error  tolerances reflect  the  fact  that  the  sample  sizes  used 
+by Florence are inadequate.  They also indicate that Florence's average settlement values may 
+be in error by factors in the range of 1.5–1.6. In other words, the actual settlement values for 
+all such claims could be up to 50–60% higher (or lower) than est imated by Florence.  
+
+Moreover,  the  error  tolerances  for  Florence’s  estimates  may  be  substantially  larger  than 
+indicated above.   This  is because  the “normal approximation” assumptions  I used are among 
+the most favorable that I could have selected. 
+
+Florence  attempted to  gloss  over  this  crit ical  credibility problem  by  using  the  settlement 
+values  o f  only  those  historic  settlements  that  met  the  Grace-imposed  criteria.    However, 
+Florence  failed here  as well  because  there was  no  statist ically  significant  difference  between 
+those  settlements  and  the  other  settlements Graces  paid.6   In  other words,  Florence assumed
+that  the  new  Grace  imposed  criteria  would  have  made  no  difference  on  the  historic 
+settlements.  
+
+Figure  1  displays  the  settlement  amounts  for  the  21  mesothelioma  claims  that  met  Grace’s 
+criteria  along with the  settlement  amounts  for  the  81  other  claims  in Florence’s  data  that  did 
+not  meet  Grace’s  criteria.    Within  each  group  the  data  were  sorted  in  ascending  order  by 
+settlement  amount.    The  scaling  of  the  vertical  axis  was  set  so  that  the  first  horizontal  bar 
+appears  at  the  average  value  ($135,860)  for  the  21  mesothelioma  claims  that  met  Grace’s 
+criteria.  
+
+Figure 1: Settlement Amounts for Mesothelioma Claims Arrayed According to Grace 
+Evidentiary Criteria
+
+$1,086,880
+
+$951,020
+
+$815,160
+
+$679,300
+
+$543,440
+
+$407,580
+
+$271,720
+
+$135,860
+
+t
+n
+u
+o
+m
+A
+ 
+t
+n
+e
+m
+e
+l
+t
+t
+e
+S
+
+Meet Criteria
+Do Not Meet Criteria
+
+$0
+13579
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+1
+7
+7
+7
+7
+7
+6
+6
+6
+6
+6
+5
+5
+5
+5
+5
+4
+4
+4
+4
+4
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+8
+Claim Number
+
+ 
+ 
+6 Based on the “two-sample equal-variance t ratio” of 0.86 with 100 “degrees of freedom.”
+11
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 13 of 33
+
+One  can  see  that  only  7  o f  the  21  claims  (33%)  in  the  first  group  had  values  above  the 
+average  as  did  13  of  the  81  claims  in  the  second  group.    The  average  value  in  the  second 
+group was $100,696, a value exceed by 18 of the 81 claims (22%).  
+
+As  noted  above,  the  differences  in  average  values  between  the  two  groups  were  not 
+statist ically significant.   This means  that Florence had no reliable evidence  that  the payments 
+to the full set of claimants who would have met Grace’s evident iary criteria for mesothelioma 
+were  actually  larger  on  average  than  the  payments  to  the  claimants who would  not  have met 
+those  criteria.   In other  words,  the  size  of  the  payments in  the  historical  data  has  not  been 
+shown to be related to the evidentiary criteria now proposed by Grace.  Florence’s data fail to 
+prove  that claimants meet ing  those  criteria  benefited by  receiving  larger settlement  amounts.  
+Thus,  the  average  settlement  value  for  the  21  claimants  in  Figure  1 who met  those  criteria  is 
+not  representative  of  the  average  settlement  values  that  would  have  occurred  had  Grace 
+actually  implemented the  new  claim  settlement  procedures  based  on  the evident iary  criteria 
+in Florence’s report.  
+
+The  settlement  values  in  the  first  group  ranged  from  $15,375  to  $768,750,  a  factor  of  50.  
+Given  that  all  of  these  claims  met  Grace’s  evident iary  criteria,  I  would  have  expected  that 
+Florence’s  report  would  have  provided  some  assessment  of  the  condit ions  that  led  to  this 
+huge settlement different ial.  
+
+The  settlement  values  in  the  second  group  ranged  from  $1,000  to  $1,000,000,  a  factor  of 
+1,000.    Given  that  none  o f  these  claims  met  Grace’s  evidentiary  criteria,  I  would  also  have 
+expected  that Florence’s  report would  have  provided  some  assessment of  the  condit ions  that  
+led  to  the  huge  settlements  for  the  6  highest  claim  values  ($358,750  and  above),  especially 
+given  the  observat ion  in  Opinion  1  that  he  assigned  zero-dollar  values  to  all  similar  claims 
+filed on April 2, 2001 or later.  Florence provided no such assessment. 
+
+Figure  2  displays  the  corresponding  data  for  lung  cancer.   The  differences  in  average  values 
+between  the  two  groups,  though  relat ively larger  ($34,673  vs.  $15,570),  were  also  not 
+statist ically  significant.7 Again,  this  means  that  Florence  had  no  reliable  evidence  that  the 
+claim  payments  to  the  full  set  of  claimants who would  have met Grace’s  evident iary  criteria 
+for  lung  cancer  were  actually larger  on  average  than  the  payments  to  the  claimants  who 
+would not have met those criteria.  
+
+The settlement values in the first group ranged from $1,538 to $76,875, a factor of 50; and in 
+the  second group,  from $1,025  to $200,000,  a  factor of 195.  The  settlement  amounts  for  the 
+three  largest  claims  in  the  second  group  were  greater  than  or  equal  to  the  largest  settlement 
+amounts  for  the  claims  in  the  first  group.   As  noted  above, Florence’s  est imat ion procedures 
+assigned zero-dollar values to all similar claims filed on April 2, 2001 or later.  
+
+ 
+ 
+7 Based on the “two-sample equal-variance t ratio” of 1.84 with 79 “degrees of freedom.”
+
+12
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 14 of 33
+
+Figure 2: Settlement Amounts for Lung Cancer Claims Arrayed According to Grace 
+Evidentiary Criteria
+
+$208,038
+
+$173,365
+
+$138,692
+
+$104,019
+
+$69,346
+
+$34,673
+
+t
+n
+u
+o
+m
+A
+ 
+t
+n
+e
+m
+e
+l
+t
+t
+e
+S
+
+Meet Criteria
+Do Not Meet Criteria
+
+$0
+13579
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+1
+3
+5
+7
+9
+1
+3
+3
+7
+6
+6
+6
+6
+6
+5
+5
+5
+5
+5
+4
+4
+4
+4
+4
+3
+3
+3
+3
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+7
+Claim Number
+
+4. The median forecasted  liability o f $712 million reported by Florence was based on a set of 32 
+individual  forecasts  with  liabilit ies  ranging  from  $385  million  to  $1,314  million.    The  32 
+individual forecasts were formed by combinat ions of: 
+4  overlapping  calibrat ion  periods  (1996–2000,  1997–2000,  1998–2000,  and  1999–
+•
+2000),  
+2  methods  for  handling  missing  data  on  the  evident iary  criteria  (default  failure  vs. 
+random allocation),  
+2 methods for mesothelioma and lung cancer forecasts (Nicho lson vs. Peto), and  
+2 methods for other cancer and nonmalignancy forecasts (ratio vs. regression).  
+
+•
+•
+
+•
+
+Florence  implicit ly assumed  that  the median  forecast would be  the best summarizat ion o f his 
+calculat ions.   This  is  not  correct.   The best  summarizat ion would  be  near  the  high  end  of  his 
+range or possibly above the high end.  
+
+Any  modificat ion  to  Florence’s  result s  based  on  the  issues  raised  in  Opinion  4  would  be 
+dist inct  from  the  modificat ions  that  would  be  required  to  respond  to  the  inadequacies 
+ident ified in Opinions 1–3.  
+
+This opinion  is  based  on my  review  of  Sections  5.0–6.0 of his  report,  and  related material  in 
+his Appendices, and in references contained therein.  
+
+Calibration Periods
+
+Florence stated (page 18):  
+
+13
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 15 of 33
+
+“A calibrat ion  period  is  selected  to  be  that  historical  period  that  is  expected  to  be 
+most  reflective  o f  future  events.    The  range  of  calibration  periods:  1996–2000, 
+1997–2000,  1998–2000,  and  1999–2000,  was  selected  so  as  to  include  sufficient 
+years such that the influence of any single anomalous year would be mit igated.”
+
+None of the four selected calibrat ion periods were “reflect ive o f future events.”  Examinat ion 
+of Florence’s  Tables  5-1  and  5-2  shows  that  there  was  a  significant  increase  in  claims 
+between 1999 and 2000, an increase that continued into 2001.  Bigg’s expert report (June 18, 
+2007,  pp.  44–49)  documents  her  analysis  showing  that  the  number  of  claims  against  Grace 
+would  have  cont inued  to  increase  through  2002–2003,  after  which  mesothelioma  claims 
+would  continue  at  the  higher  rate,  lung  cancer  and  other  cancer  would  have  declined  to 
+earlier levels, and nonmalignancies would have declined sharply below the earlier levels.  
+
+Florence  implicit ly  treated  2000  as  if  it were  an  “anomalous  year.”   This would  have  been  a 
+reasonable  assumpt ion  if  he  were  conducting  his  analysis  in  2001,  but  is  not  a  reasonable 
+assumpt ion  for  an  analysis  conducted  in  2007.    At  this  t ime  the  claim  filing  patterns  for 
+major  defendants  and  trusts were  known  for  the  years  2001–2006,  and  it was  not  reasonable 
+for Florence to ignore such informat ion in making his current estimates.  Moreover, given the 
+broad  range  o f  asbestos  defendants  and  trusts  listed  on  page  1  o f  his  report,  it  is  difficult  to 
+imagine that Florence did not have access to such informat ion.  
+
+Given  the  sharp  increases  in  mesothelioma  claim  filings  during  2000–2002  and  the  fact  that 
+mesothelioma  represents  52–63%  of  the  liabilit ies  in  his  Table  6-3,  it  is  likely  that  an 
+adequate  treatment of the changes  that occurred during 2001–2006 would  yie ld  substant ially 
+higher  liability est imates.  
+
+Missing Data on the Evidentiary Criteria
+
+At three  points  in  his  report  (pages  9,  11,  12),  when  dealing  with  pending  claims,  Florence 
+stated:  “…ARPC  had  no  data  to  calculate  how many,  if  any,  of  the  claimants  who  did  not 
+respond had claims  that met  the criteria.”   Florence dealt with  this “missing data” problem  in 
+two ways:
+• Method  1  (default  failure)  assumed  that  all  claimants  who  did  not  respond  would 
+have failed to meet the evident iary criteria.
+• Method 2  (random allocat ion)  assumed  that  all  claimants who did not  respond would 
+have  met  the  evidentiary  criteria  in  the  same  proportion  as  those  who  provided  the 
+data.
+
+In  the  absence  o f  evidence  to  the  contrary,  Method  2  is the  preferred  method because  it  is 
+neutral with respect  to  the  assumptions  concerning  the  relat ive  success/failure  rates  o f  the 
+respondents vs. non-respondents.  
+
+Method 1 invo lves the very strong assumption that the absence of data is equivalent to failure 
+to meet  the evident iary criteria.   The problem  in using Method 1  is  that  it  requires  the use of 
+evidence  that  does  not  exist.    Florence  clearly  stated  that  “ARPC  had  no  data” on  the  non-
+respondents, which means that he had  no  evidence  to  support  the default  failure  assumpt ion.   
+Florence  could  have co llected addit ional  data  on  the  non-respondents  in  order  to  test  the
+default  failure  assumpt ion,  but  he  did  not.    In  the  absence  o f  such  data,  there  is  simply  no 
+14
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 16 of 33
+
+basis  for  validating  the  assumpt ion  and  no  basis  for  using the  assumpt ion  in  the  current  
+estimat ion.  
+
+Table 6-3  indicates  that  the median  liabilit ies  for Method  2  are  $1,043 million,  substant ially 
+higher  than  the median  liabilit ies  of  $493  for Method  1,  or  the median  liabilit ies  of  $712  for 
+the  combinat ion  of the  methods,  and  much  closer  to  the  high  end  of  the  range  of  the  32 
+project ions ($1,314 million).  
+
+Florence’s  applicat ion  o f  Method  2  to  “all  claimants”  included 84,476  but  excluded 29,172 
+claimants  listed  in  his  Table  4.1 for  which  “there  was  no  possible  POC  match”  (page  5).  
+This  exclusion  was  equivalent  to  assuming  that  these  claims  were  invalid  at  the  time  they 
+were  filed,  and  was  done  without  presenting  any  supporting  evidence  (as  in  other 
+applicat ions  of  Method  1).    Accounting  for  this  excluded  group  could  raise  the  liability 
+estimates  for  pending  claims  by  34.5%  ($44 million)  if  they were  assumed  to  be  statist ically 
+ident ical to the included claimants (as in other applicat ions o f Method 2).  
+
+Florence’s  approach  of  combining  Methods  1  and  2  for  pending  claims  appears  to  be 
+inconsistent with his unmodified use of Method 2 (random allocat ion) when he deals with the 
+estimat ion of  the  fract ion o f clo sed claims  that would meet  the evidentiary criteria.   On page 
+16–17  he uses  a  random  allocat ion  assumpt ion  “that  the historical  closed  claims would meet 
+the criteria in the same proportion as the historical pending claims.”  
+
+In  this  case,  however,  it  is  not  clear  why  he  did  not  use  the  Closed  Claim  sample  to  make 
+these  estimates.   Moreover,  to  the  extent  that  the  closed  claims  represented  stronger  claims 
+than  the  claims  that  were  pending  at  the  t ime  of  bankruptcy,  one  would  expect  that  the 
+fraction  o f  closed  claims  that  would  meet  the  evident iary  criteria  would  be  higher  than  the 
+corresponding  fract ion  of  pending  claims,  implying  that  the  random  allocat ion  method  is 
+downwardly biased.  
+
+Mesothelioma and Lung Cancer Forecasts
+
+The  mesothelioma  and  lung  cancer  forecasts  form  the  core  of  Florence’s  est imat ion 
+procedures.    As  detailed  in  his  Appendix  I,  he  used two  different  methods  to  conduct  these 
+forecasts.  
+
+The  first method was a 1991 modificat ion o f  the Nicho lson’s 1982 method  (see Nicho lson et 
+al. 1982) prepared by Vasquez in cooperation with Nicho lson, termed the “Nicho lson/KPMG 
+Method”.    The  second  was a  procedure  termed  the  “Peto/ARPC  Model”  or  “Peto/ARPC 
+Method.”  
+
+The  methods  can  be  dist inguished  by  their  approach  to  the  estimat ion  o f  the  size  o f  the 
+populat ion that was exposed  to asbestos  in  the past.   The Nicholson/KPMG Method  is based 
+on historical data on occupations with asbestos exposure; the Peto/ARPC Method is based on 
+estimates  from  the  OSHA  dose-response  models  of  the  implied  size  of  the  population that 
+was  exposed  to  asbestos,  given  that  the  number  of  cases  of  asbestos-related  lung  cancer  or 
+mesothelioma was known.  
+
+15
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 17 of 33
+
+With  estimates  o f  the  size  of  the  population,  one  can  generate  valid  forecasts  of  future  lung 
+cancer  or mesothelioma  diagnoses  or  deaths  using  a  variety  o f  methods.   Unfortunately,  the 
+methods  chosen  by  Florence  do  not  lead  to valid  forecasts;  instead  they  produce  forecasts 
+that  are  downwardly  biased  and  are  based  on  inconsistent  or  contradictory  assumpt ions.    I 
+document these points below.
+
+Nicholson/KPMG Method
+
+The  Nicho lson/KPMG  Method  was  based  on  Vasquez’s  1991  work.    As  noted  by  Vasquez 
+(1991,  page  66),  this  method  produced  its  peak  mesothelioma  incidence  in  1995.    This 
+deviated  sharply  from  the  later  peak  mesothelioma  incidence  in  2002  in  the  original 
+Nicho lson  model  (Vasquez  1991,  page  67)  and  it  is  now  known  to  be  inconsistent  with the 
+increasing  incidence  in U.S. Vital  Statist ics  through  at  least  2004  (see Biggs,  June  18,  2007, 
+page  45).   A  reasonable  conclusion  is  that  the  changes made  by  Vasquez  were  in  the  wrong 
+direct ion.    The  fact  that  Florence  took  Vasquez’s  version  o f  the  Nicho lson/KPMG  Method 
+meant that he started with an inherently inferior model.  
+
+As  noted  on  his  page  I-2,  Florence  was  aware  of  these  problems  with  Vasquez’s  version  o f 
+the Nicho lson/KPMG Method and he attempted  to make ad hoc adjustments to that model  to 
+match  the number o f claims  filed against Grace within  industry group and disease during his 
+calibrat ion period 1996–2000.   One problem with  this adjustment was  that  it merely  rescaled 
+Vasquez’s forecasts without resolving the inconsistency between the t iming o f the peaks and, 
+derivat ively,  of  the  rate  of  decline  fo llowing  the  peaks.    A  second  problem  was  that  the 
+chosen calibrat ion period 1996–2000 was not “reflective o f  future events,” as noted above  in 
+the section ent itled “Calibrat ion Periods.”
+
+The  Nicho lson/KPMG  Method  was  based  on  exposures  to  asbestos  that  began  during  the 
+period  1930–1979.    Exposures  beginning  in  1980  and  later  are  not  represented.    This 
+omission is inconsistent with the results in Table 2 of Anderson’s June 11, 2007 expert report 
+which  indicates  that  Grace  exposures  cont inued  up  to  1993.    The  omission  of  persons  with 
+exposures  init iating  during  the  period  1980–1993  could  have  a  significant  impact  on  the 
+forecasted  liabilit ies  because  these  persons  would  be  substant ially  younger  than  the  other 
+exposed  persons  which  would  put  them  at  risk  fo r  one  to  two  decades  longer.    This  implies 
+that the project ions  in Florence’s Table  J-1 would be  too  low  for all years, and especially  for 
+the years after 2020 when the elapsed time since first exposure would put these persons at the 
+highest risks of mesothelioma and lung cancer. 
+
+Both  the original Nicho lson Method and Vasquez’s version o f  the Nicho lson/KPMG Method 
+used  total  mortality  rates  for  males  from  U.S.  national  vital  statist ics  for  the  period  1975–
+1979  and  assumed  that  these  held  constant  throughout  the  period  1980–2030  (Nicholson  et 
+al.  1982,  p.  296).    The  constancy  assumpt ion  was  incorrect.    The  actual  mortality  rates 
+declined at an average rate near 1% per year from 1979 to 2003 and are projected to continue 
+to  decline  through  2030  and  beyond.    The  impact  of  these  declines  can  be  seen  by  the 
+increase of male  life expectancy at age 65  from 14.0 years  in 1980  to 18.0 years  in 2030  (see 
+Board  of  Trustees  of  the  Social  Security  Trust  Funds,  2007,  p.  81).    These  extra  4  years  of 
+survival  at  the  end o f  life mean  that  there  is  significant  addit ional  t ime  for  the  emergence  o f 
+asbestos-related  diseases  to  become  manifest.    The  Nicho lson  mortality  assumpt ions  are 
+
+16
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 18 of 33
+
+unrealist ically  conservative  and  the  result ing  project ions  are  downwardly  biased,  with 
+increasingly larger errors for the later years of the project ions.  
+
+In  an  email  to  counsel  for  the  Future  Claimants’  Representative dated  September  17,  2007, 
+Grace's counsel, E lli Leibenstein (of Kirkland & Ellis), stated: 
+
+“Attached  is  a  table  with  ARPC's  KPMG  incidence  numbers  that  ARPC  has 
+been  using  since  2001.    In  2001,  ARPC  updated  the  KPMG  model  by 
+updating  the  average  ages  for  entrants  into  the  workforce  (to  better  fit  the 
+SEER age distribut ion) and the mortality tables.”  
+
+However,  the  attachment  to  that  email  showed  that  the  peak  mesothelioma  incidence  st ill 
+occurred  in  1995  so  that  ARPC’s  2001  update  did  not  resolve  the  problems  with  the  peak 
+incidence  ident ified in the prior paragraph.  
+
+In describing the OSHA models on page I-1, Florence stated: 
+
+“…  no  peer  reviewer  challenged  the  mathematical  equat ions  devised  by 
+OSHA  in  its  models  to  predict  risk  o f  lung  cancer  and  mesothelioma  from 
+asbestos  exposure.   The  consensus was  that  the data behind  their  assumpt ions 
+were  correct  and  that  the  models  were  appropriate  and  acceptable  means  of 
+risk  assessment.    The  dose-response  models  presented  in  the  1986  [OSHA] 
+report  have  never  been  revised  and  have  been  adopted  by  several  other 
+regulatory and scient ific bodies for use in risk assessments.”  
+
+Apparent ly he failed to notice that evident iary criterion 3 on page 2 of his report const ituted a 
+complete reject ion o f  the OSHA model.   This criterion states  that a diagnosis of asbestosis  is 
+necessary for  the  causat ion  of  lung  cancer  to  be  validly  attributed  to  asbestos  exposure.  
+Roggli  explained  on  pages  3–4 of  his  report why this  criterion is wrong.   On page  I-3 of his 
+report, Florence  listed the  four  components  of  the OSHA model.    It  is  clear  from this  list ing 
+that  none  of  the  four  components  included any  requirement  or  even  ment ion  o f  a  ro le  for  
+asbestosis to generate increased risk of lung cancer.  
+
+Florence  failed  to  notice  that  if  criterion  3  on  page  2 were  correct,  then  it would  necessarily 
+fo llow  that  the  OSHA  model  would  be  wrong,  and  that  any  forecast  based  on  the  OSHA 
+model would  be  wrong.    His  assumpt ion  that  criterion  3  on  page  2  is  correct  is  inconsistent 
+with his  assumpt ion  that  the  OSHA  model  in  also  correct.    Logically,  one  of  these  two 
+assumpt ions must be wrong.
+
+This  inconsistency  leads  to  the conclusion  that Flo rence’s  lung cancer project ions are wrong, 
+regardless o f whether  asbestosis  is  or  is  not  “a  necessary  precursor  in  order  to  attribute  lung 
+cancer to asbestos exposure” (as asserted by David Weill, October 3, 2006, p. 20).  
+
+Peto/ARPC Method
+
+Florence’s  report contains very  few details concerning his  implementation of  the Peto/ARPC 
+Method.    Given  that  it  is  basically  an  alternat ive  method  of  estimat ing  the  size  of  the 
+populat ion that  was  exposed  to  asbestos  in  the  past,  and  that  it  employs  the  OSHA  mode l 
+17
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 19 of 33
+
+with constant mortality, all o f the problems with the Nicho lson/KPMG Method would also be 
+problems  with  this  alternat ive  method,  except  the  problem  relat ing  to  the  shift  o f the  peak 
+mesothelioma year from 2002 to 1995.  
+
+Other Cancer and Nonmalignancy Forecasts
+
+Florence used two methods for his forecasts of claims for other cancers and for nonmalignant 
+diseases.   The first method was a “ratio method” based on  the use of  the projected number of 
+lung  cancer  claims  as  an  “index  series”  for  the  claims  due  to  other  cancers, with  the method 
+repeated  separately  for  claims  due  to  nonmalignant  diseases.    For  each  type  of  claim,  the 
+ratio  was  presumably  held  constant  throughout  the  project ion  period.    The  second  method 
+was  a  “regression  method”  that  used  the  natural  logarithm  o f  the  number  o f  lung  cancer 
+claims  to predict  the natural  logarithm o f  the number of claims due to other cancers, with the 
+method repeated separately for claims due to nonmalignant diseases.  
+
+The ratio method is wrong for nonmalignancies, for two reasons:  
+
+• The assumption that the ratio would be constant over even a short time is proven false 
+by  Bigg’s  expert  report  (June  18,  2007,  pp.  44–49)  which  documents  her  analysis 
+showing  that  the  number  of  claims  against  Grace  would  have  cont inued  to  increase 
+through 2002–2003, after which  lung cancer and other cancer would have declined  to 
+earlier  levels  while  nonmalignancies  would  have  declined  sharply  below  the  earlier 
+levels.  
+• The assumption  that  the  ratio would be constant over a  longer  time  is proven  false by 
+the  finding  in  my  analysis  that  the  rate  of  increase  in  claim  filings  as  a  funct ion  o f 
+time since  first exposure  is  faster  for malignancies  than  for nonmalignancies (Stallard 
+et al. 2005, p. 228).  
+
+The  rat io method  is  wrong  both  for  other  cancers  and  nonmalignancies  for  the  addit iona l 
+reason  that  the  underlying  forecast  of  lung  cancer  which  serves  as  the  “index  series”  is 
+wrong.  
+
+The  “regression  method”  is a  generalizat ion  of  the  rat io method  in  which  the  number  o f 
+claims due  to other  cancers  (or  separately due  to nonmalignant  diseases)  is  proportional,  not 
+to  the number of  lung  cancer  claims, but  to  a power of  the number of  lung  cancer  claims.    If 
+the  power  were  exactly  1.0,  the  two  methods  would  yield  ident ical  results.    This  method  is 
+subject  to  the  same  three  problems  ident ified  above  for  the  ratio  method,  and  hence  fails  to 
+produce valid forecasts for the same reasons.  
+
+In  addit ion  to  the  problems  noted  above  in  forecasting  the  number  o f  future  claims  for  lung 
+cancer,  other  cancers,  and  nonmalignant  diseases,  it  is worth  emphasizing  that  the  est imated 
+costs  for  58,241  pending  and  future  claims  for  these  three  disease  categories  were  based  on 
+just  7  closed  claims  with  settlement  values  that  ranged  from  $1,538  to  $76,875  (Figure  2).  
+The est imated costs for  the 4,284 pending and future claims for mesothelioma were based on 
+just  21  closed  claims  with  settlement  values  that  ranged  from  $15,375  to  $768,750  (Figure 
+1).  
+
+18
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 20 of 33
+
+In this particular analysis, the uncertainty in the forecasted numbers of valid claims combines 
+mult iplicatively with the  uncertainty  in  the  settlement  values  assumed  to  apply  to  those 
+claims  to  produce  a  set  of  estimates  that  are  so  highly  uncertain  that  they cannot  be 
+considered  to have any valid  role  in  the context of generat ing unbiased and reliable est imates 
+of Grace’s asbestos-related  liabilit ies in the case currently before the Court.  
+
+5. Florence’s  report  makes  numerous  assumpt ions,  many  o f  which  have  an  unquant ified  or 
+unquant ifiable degree of uncertainty. Since each assumpt ion builds upon other assumpt ions, 
+the  cumulat ive degree o f uncertainty quickly  reaches  the po int where  the  report's  est imate  is 
+unreliable, and indeed, surpasses that point when consideration is given to the issues raised in 
+Opinions 1–4.  
+
+In  addit ion,  the  basis  and  reasons  for  these  numerous  assumpt ions  are  not  completely  stated 
+in  the  report, making  it  difficult  both  to  assess  their  validity  and  to  determine whether  there 
+are  addit ional  issues  that  would  have  been  raised  by  me  in  this  rebuttal  report  had  a  more 
+forthright  statement been provided.   Moreover,  statements  such  as  those on page 10 – “Fina l 
+numbers will be  included after  the addit ional  review  is completed” – led me  to conclude  that 
+the  June  18,  2007  version  of  the  report  was  not  intended  to  be  the  final  version,  and  that 
+addit ional revisions could be expected.  
+
+In the fo llowing, I discuss several o f these problematic assumptions.
+
+On  page  7,  Florence  excluded  5,063  claims  from  the  CMS  database  because  they  had 
+diagnosis  dates  or  date-filed  dates  after  the  bankruptcy  petit ion  date  of  April  2,  2001.    He 
+provided no details concerning how many o f these claims filed a POC, nor did he indicate the 
+number  o f claims  with reject ions  based  on  each  type  o f  date.    It  is  incorrect  to  exclude  a 
+claim  with a  valid  POC  that  was  filed  prior  to  the  pet it ion  date  regardless  of  the  recorded 
+diagnosis  date.    Alternatively,  even  if  some portion  of  the  claims  were  filed  after  the 
+bankruptcy,  they  still  could  provide  valuable  info rmat ion  about  the  characterist ics  o f  future 
+claims early  in  the period between  the bankruptcy and  the present and hence should not have 
+been ignored in the analysis.
+
+On  page  7,  Florence  excluded  29,172  of  113,648  claims  from  the  CMS  database,  after 
+excluding  the  5,063  claims  indicated  above,  because  he  could  not  obtain  a  match  between 
+their CMS record and the POC records.   His analytic workfile therefore was based on 84,476 
+claims.    Had  he  matched  the 29,172  claims,  his  analyt ic  workfile  would  have  been  34.5% 
+larger,  and  had  he  retained  all  o f  the  5,063  claims  in  addit ion,  his  analyt ic  workfile  would 
+have been 40.5% larger.  
+
+The  exclusion  of  such  large  fract ions  of  pending  claims  can  substant ially  downwardly  bias 
+the  est imates  in  two  ways.    First,  the  historical  claim  filing  counts  used  in  calibrating  the 
+project ions will  appear  to  be  substant ially  smaller  than  they  actually were.   Second,  the  total 
+settlement value assigned to the pending claims will appear to be substant ially smaller than it  
+should  be.    Florence’s  report  provides  insufficient  just ification  for  these  exclusions  and 
+insufficient  detail  to  assess  the  size  o f  the  impact  on  the  est imates.    Florence’s  report  does 
+provide  enough  informat ion to  state  qualitat ively  that  the  impact  could  be  large,  i.e.,  up  to 
+34.5–40.5% as indicated in the prior paragraph.  
+
+19
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 21 of 33
+
+On  page  8,  Florence  excluded  10,322  POCs  because  he  could  not  match  them  to  the  PIQ 
+database.    This  meant  that  the  PIQ  database  contained only 74,154  of  the  113,648  claims 
+from  the  CMS  database,  after  excluding  the  5,063  claims  indicated  above.    Had  he matched 
+both  the  29,172  and  the  10,322  claims,  his  analytic workfile would  have  been  53.3%  larger, 
+and had he retained all o f the 5,063 claims  in addition, his analyt ic workfile would have been 
+60.1%  larger.    Alternat ively,  the  PIQ  database  represents  only  62.5%  of  the  claims  he 
+ident ified as being in the CMS database.  It is completely unknown how the characterist ics o f 
+the  excluded  37.5%  of  the  claims  would  compare  to  the  retained  62.5%  of  the  claims  with 
+respect  to  the  informat ion  on  the  PIQ.    This  lack  of  knowledge  generates  a  potentially  large 
+source of uncertainty that is not quantifiable based on the informat ion in Florence’s report.  
+
+On  page  10,  Florence  appeared  to  have  assumed  that  x-ray evidence  not  available  for  lung 
+cancer  claimants  in  his  study  would  not  be  available  at  time  of  trial.    This  assumption  was 
+confusing  because  he  stated  that  he  assumed  that  “such  evidence would  not  be  available  for 
+the estimation trial” (bo ldface mine, not his),  rather  than  for  the  trial  in  the  tort system.  The 
+unavailability  o f  evidence  at  the  time  o f  the  PIQ  submission  is  not  the  same  thing  as 
+unavailability o f evidence at the time of trial.   Florence's  improper assumpt ion excluded over 
+half  (51%)  of  the  otherwise  valid  claims.    Moreover,  the  impact  of  this  assumpt ion  on  the 
+liability est imate  is compounded because  the  lung cancer settlement values  for diseases other 
+than mesothelioma were  assumed  to  be mult iplicatively  related  to  the  lung  cancer  settlement  
+values.  
+
+Throughout  his  report,  Florence  assumed  that  only  individuals  that  personally  mixed  or 
+installed  asbestos  products  will  acquire  an  asbestos  related  disease  even  though,  as  Roggli 
+observed  in his July 2007 expert report, people exposed to asbestos have developed asbestos-
+related  diseases  who  did  not  mix  or  install  asbestos.    Florence's  criteria  thus  excluded 
+potentially  valid  claims.    The  impact  of  this  exclusion  is  exceedingly  complex,  as  discussed 
+above in Opinions 1 and 2, but it is reasonable to conclude that the impact is very large, even 
+if  it is difficult to precisely quant ify how large it actually is.  
+
+The  lung  cancer  causat ion  criteria  are  too  strict  because  an  asbestosis  diagnosis  is  not  a 
+necessary precursor  to  asbestos  induced  lung  cancer  (see  Roggli’s  July 2007  expert  report).  
+Thus Florence's criteria eliminated still other potentially valid claims. 
+
+Although  Florence  uses  valuat ions  drawn  from  a historical  sample  that  actually  meets  his 
+screening criteria, he failed to make any adjustment for the fact that Grace's share of the total 
+liability  would  have  been  higher  because  many  plaint iffs  would  not  have  been  able  to 
+establish  liability  against  some  or  all  o f  the  other  defendants.    Addit ional  discussion  o f  this 
+issue  is  provided  above  in  Opinion  2  where  it  is  shown  that  the  numerical  impact  of  this 
+effect is potentially very large.  
+
+In  addit ion  to  the  other  problems  with  the  applicat ions  of  the  Nicho lson/KPMG and 
+Peto/ARPC models  noted  above,  the  Nicho lson/KPMG and  Peto/ARPC run-o ffs  that 
+Florence  used  were  based  on  different  exposure  criteria  than  Florence  used,  but  these 
+differences  were  not  taken  into  account  in  his  estimat ion  procedure,  nor  did  he  provide  any 
+results that would allow one to quantify the impact of these differences.
+
+20
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 22 of 33
+
+Florence’s assumpt ions  regarding  the  use  of  four  “calibrat ion  periods”  indicate  that  his 
+estimates  are  subject  to  great  uncertainty. However,  the  fact  that  it  is  now  known  that  both 
+the  claim filing  counts  and  the  settlement  values were  increasing  after  the  period  1999–2000 
+means  that  none  of  his  calibrat ion  periods  were  “reflect ive  o f  future  events,”  as  he  assumed 
+on page 18.  Thus the actual uncertainty o f his estimates must be substant ially larger than the 
+amount he indicated in his report.  
+
+On page 3, Florence reported  that  the  low end of his 32 est imates  indicated a  total  liability o f 
+$385  million.    Compared  to  the  actual indemnity  payments  o f  $151  million  for  2000 (see 
+page 26 o f Dunbar’s June 18, 2007 expert  report),  this amount barely allows  for 2.5 years o f 
+payments  at  a  flat  annual  rate.    Given  that  both  the  claim  filing  counts  and  the  settlement 
+values were  increasing  after  the  period  1999–2000,  the provision o f funds  for  only  2.5  years 
+of payments would  appear  with  great  certainty  to  be woefully and  shockingly inadequate  to 
+handle all claims expected to arise over the next 40–50 years.  
+
+INFORMATION CONSIDERED
+
+PART II
+
+1. Eric Stallard and Kenneth G. Manton.  Estimates and projections of asbestos-related diseases 
+and  exposures  among  Manville  Personal  Injury  Settlement  Trust  claimants,  1990-2049.  
+Presented  to  U.S.  District  Court,  Eastern  District  of  New  York,  Judge  Jack  B.  Weinstein 
+presiding, September 7, 1993, and entered into testimony March 15, 1994.  
+2. Eric Stallard and Kenneth G. Manton.  Projections of asbestos-related personal injury claims 
+against the Manville Personal Injury Settlement Trust, males 1990-2049, by occupation, date 
+of  first  exposure,  and  type  of  claim. Submitted  to  U.S.  District  Court,  Eastern  District  of 
+New York, as sworn testimony, Judge Jack B. Weinstein presiding, March 15, 1994.  
+3. Eric  Stallard.    “Product  liability  forecast ing  for  asbestos-related  personal  injury  claims:    A 
+mult idisciplinary approach.”   Chapter 13  in Population Health and Aging: Strengthening  the 
+Dialogue  Between  Epidemiology  and  Demography – Annals  of  the  New York  Academy  of 
+Sciences,  (M.  Weinstein,  A.I.  Hermalin,  and  M.A.  Stoto,  Eds.),  Volume  954,  December 
+2001, pp. 223–244.  ISBN 1-57331-372-6. 
+4. Eric Stallard, Kenneth G. Manton, and Joel E. Cohen.  Forecasting Product Liability Claims:  
+Epidemiology  and  Modeling  in  the  Manville  Asbestos  Case.    Springer  Verlag,  New  York, 
+2005.  
+5. Data  files  from  the  Manville  Personal  Injury  Settlement  Trust claims  database  provided  by 
+the Trust for the purposes of conducting the analyses reported in items 1–4 above.  
+6. Eric  Stallard.    “Expert  Report  of  P.J.  Eric  Stallard,  A.S.A.,  M.A.A.A.,  F.C.A.”    Expert 
+Estimat ion Report of P.J. Eric Stallard, A.S.A., M.A.A.A., F.C.A, In Re: W.R. Grace & Co., 
+et al., June 18, 2007.  
+7. Data  tabulat ions  of files  from  the  Surveillance,  Epidemio logy,  and  End  Results  (SEER) 
+Program.  Public-Use  Data  (1973–1999).  National  Cancer  Inst itute,  DCCPS,  Surveillance 
+Research  Program,  Cancer  Statist ics  Branch,  released  April  2002,  based  on  the  November 
+2001 submission, used for the purposes of conducting the analyses reported in item 4 above.  
+8. Data  files  from  the  Manville  Personal  Injury  Settlement  Trust  claims  database, as  of 
+December  31,  2006,  provided  by  the  Trust  for  the  purposes  of  conduct ing  the  analysis 
+reported herein.  
+
+21
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 23 of 33
+
+“Manville  Trust  Related
+9. Claims  Resolut ion  Management  Corporation  (CRMC).
+Documents.” Available  at  http://www.claimsres.com/DocumentsMT.html,  website  visited 
+May 4, 2007.  
+10. Social  Security Actuaries.  “Single-Year  Life  Tables  Tables  Consistent  with 2007  OASDI 
+Trustees Report. ” Obtained from http://www.ssa.gov/OACT/TR/TR07/lrIndex.html.
+11. Social Security Actuaries.  “Statist ical Tables:  Period  Life  Table, 2002, Updated  June  27, 
+2006.”  Obtained from  http://www.ssa.gov/OACT/STATS/table4c6.html.
+12. Congressional Budget Office.  “CBO-Mortality  Improvement Rates.” Unpublished  est imates 
+consistent with the mortality rates used by the Social Security Actuaries, June 7, 2007. 
+13. Bertram Price  and  Adam  Ware.    “Mesothelioma:  Risk  Apportionment  Among  Asbestos 
+Exposure Sources.”  Risk Analysis 25(4): 937–943, 2005.  
+14. National  Center  for  Health  Statist ics.    “Health,  United  States,  2006:  With  Chartbook  on 
+Trends in the Health of Americans.”  Hyattsville, MD, 2006.
+
+STATEMENT OF OPINIONS 
+
+1. Forecasts  of  the  number,  timing,  and  type  of  future  asbestos-related  personal  injury 
+claims should be updated periodically.  Such updating can eliminate or reduce three types 
+of errors: observed errors, unobserved errors, and errors of omission.
+
+• Observed  errors  are  due  to  differences  between  the actual and  forecasted  values  that 
+develop over  time and generally become increasing  larger as  the  interval between  the 
+base  year  of  the  forecast  and  each targeted  future  year  increases.    Updating  can 
+eliminate observed errors  occurring  in  the  period  between  the  base  year  of  the 
+original  forecast  and  the  base  year  o f  the updated  forecast  and  reset  the  base  level  o f 
+the claims in the updated forecast to match the latest observed levels.  
+• Unobserved  errors  occur in  the  period  after  the  base  year  of  a  forecast  and  represent 
+the  differences  between  the  yet-to-be-observed  actual  values  and  the  forecasted 
+values. Unobserved  errors  occurring  after  the  base  year  o f  an  updated  forecast  will
+generally be smaller than the corresponding errors in the original forecast because the 
+size  of  the  errors  is  correlated  with  the  size  of  the  interval between  the  base  year  o f 
+the forecast  and  any targeted  future  year,  and  this  interval will  be  smaller after  the 
+updating  is  done.    In  other  words,  updating  can  reduce  the  uncertainty  o f  all 
+forecasted future values to a level below that of the original forecast.  
+• Errors  of  omission  are  due  to  the  inability  o f  the  original  forecast  to  account  for 
+exposures  to  asbestos  beginning in  the  period  after  the  base  year  of the  original 
+forecast. These  errors  can  be  eliminated  by  including  such  exposures  in  the  updated
+forecast.8  
+
+The basis o f this opinion is documented in Stallard (2001) and Stallard et al. (2005).  The
+treatment of observed  and unobserved  errors  in  this opinion is generally  accepted  among 
+professional  forecasters  and  is  not  controversial.  Biases  due  to  errors  of  omission  for  
+later  exposures  are  frequent ly  ignored,  e.g.,  as  noted  above  in  Part  I  in  my  crit ique  o f 
+Florence’s applicat ion o f the Nicho lson/KPMG Method which was based on exposures to 
+asbestos  that began during  the period 1930–1979, with exposures  beginning  in  1980  and 
+
+ 
+ 
+8 These errors will disappear in all updates performed after the exposures have ceased.  
+22
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 24 of 33
+
+later not  represented.   My opinion  is  that  such  errors  should  be  explicit ly  considered  and 
+appropriate adjustments made to correct for them.  
+
+2. There are two general types of updat ing that are responsive to Opinion 1: part ial updat ing 
+and global re-est imat ion of the ent ire model.  
+
+• Partial updat ing,  described  in Stallard  (2001),  removes  the observed errors  that occur 
+due  to  differences  between  the  actual  and  forecasted  values  during  the  updating 
+interval, resets  the  base  level  of  the  claims  to match  the  latest  observed  levels,  while 
+retaining  the  shape  (relat ive  timing) of  the  claim  runo ff process.   The resetting of  the 
+base  levels reduces the  unobserved  errors  occurring  in  the  period  after  the  base  year 
+of the  updated  forecast as  long  as  the  original  estimates  of  the  claim  runo ff  process 
+remain valid.  Partial updat ing does not address errors of omission for later exposures.
+The accuracy o f the result ing updated forecast will depend on the size of such errors.  
+• Global  re-est imat ion  o f  the  ent ire  model  was  recommended  in  Stallard  (2001) as  an 
+alternat ive  to  partial  updat ing  that  would  be  performed  relat ively  infrequent ly  due  to 
+the greater effort  invo lved.   Global re-est imat ion allows one  to address all  three  types 
+of errors, and can be conducted using methods similar to those described  in Stallard et 
+al. (2005).  
+
+The basis of this opinion  is also documented in Stallard (2001) and Stallard et al. (2005).  
+
+UPDATED PROJECTIONS
+
+Table  1  of my  June  18  report  (reference  6  in  the  first section)  presented  claim  runoffs  from  my 
+1994 analysis of  the Manville Trust data.   These data were provided  to Jennifer L. Biggs for use 
+in  generating  her  projected  claims.    My  understanding  was  that  her  use  of  these  data  was 
+restricted  to reliance on the  shapes (relat ive  timing) of  the claim runoffs, without reliance on  the 
+base  levels (abso lute  numbers  o f  claims  in  any  selected  base  year),  but  with  adjustments  for 
+errors of omission for later exposures.  
+
+Given  this applicat ion,  and  the  possibility  that  global  re-est imat ion  of  the  ent ire  model might 
+produce different shapes (relat ive  timing) o f  the claim runoffs or different adjustments  for errors 
+of omission for  later  exposures,  I  recommended  that  she  consider  using  updated  claim  runoffs 
+based  on  a  global  re-est imat ion  o f  the  ent ire  model using  the  latest Manville  Trust  data  (for  the 
+5-year period 2002–2006; see reference 8 in the first section).  
+
+I  generated  updated  project ions  of  the  number  of  male  claims  against  the  Manville  Trust  by 
+disease,  date  of  first  exposure,  and  date  of  claim  for  the  period  2005–2009  through  2055–2059, 
+after  which  all claims  terminated, and  I  provided  these  supplemental  pro ject ions  to  Jennifer  L. 
+Biggs for use in her supplemental/rebuttal expert report dated September 25, 2007.  
+
+The updated claim runo ffs are summarized separately by disease and groupings of disease below 
+in Tables 1–6. All o f the tables have the same format.
+
+Table 1 presents  the project ions  for  all  asbestos-related  personal  injury  claims.   These  consist  of 
+claims  for  malignancies  and  nonmaligancies.    The  total  projected  number  of  claims  is  355,556 
+with 130,155  claims  projected  for  the  period  2005–2009.    The  ratio  of these  two  numbers  is 
+23
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 25 of 33
+
+called the “development factor” and has the value 2.73.  The total number of claims is thus equal 
+to  2.73  times  the  number  projected  for  2005–2009.    The  development  factor  is  a  convenient 
+summarizat ion  o f  the  shape  o f  the  claim  runo ff  curve.    A  large  development  factor  implies  that 
+claims  will  be  filed  for  relat ively  many  years;  conversely,  a  small  development  factor  implies 
+that claims will terminate relat ively early.  
+
+Corresponding development factors are presented for each date of  first exposure, and  range  from 
+1.00  for  1925–1929  exposure  starts  to  8.96  for  1980–1984  exposure  starts.    The  development 
+factor  increases  by  a  factor  of  3.03  (from  2.96  to  8.96)  between exposure  starts  during  1970–
+1974  and 1980–1984.    Overall,  18.3%  of projected  claims  are  projected  to  arise  from  exposure 
+starts during 1975–1984.
+
+Table 1: Updated Projections of the Number of All Asbestos-Related Personal Injury Claims Against the Manville Trust, Males, 
+U.S. and Canada
+
+Date of First 
+Exposure
+1915-1919
+1920-1924
+1925-1929
+1930-1934
+1935-1939
+1940-1944
+1945-1949
+1950-1954
+1955-1959
+1960-1964
+1965-1969
+1970-1974
+1975-1979
+1980-1984
+Total
+
+Date of Claim
+2025-
+2045-
+2040-
+2035-
+2030-
+2020-
+2015-
+2005-
+2010-
+2049
+2044
+2039
+2034
+2029
+2024
+2019
+2009
+2014
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+14
+0
+0
+0
+0
+0
+0
+0
+0
+142
+12
+0
+0
+0
+0
+0
+0
+19
+1,051
+230
+0
+0
+0
+0
+0
+74
+8,257 3,629
+782
+0
+0
+0
+0
+24
+10,247 5,272 2,191
+432
+0
+0
+0
+16,663 9,550 4,951 1,993
+442
+36
+0
+0
+18,274 12,544 7,597 4,242 1,916
+406
+22
+0
+22
+19,694 14,720 10,548 6,733 3,807 2,000
+398
+14
+23,237 14,027 10,593 7,857 5,286 3,191 1,484
+259
+205
+18,735 11,480 7,468 6,079 4,827 3,242 2,314 1,095
+514
+11,748 12,202 7,099 4,904 3,543 3,009 2,171 1,180
+414
+2,093 3,677 4,523 2,618 1,752 1,387 1,425
+689
+130,155 87,344 55,772 34,933 21,597 13,271 7,814 3,246 1,147
+
+2050-
+2054
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+11
+73
+148
+231
+
+11
+0
+
+–-
+
+2055-
+Total
+2059
+0
+0
+0
+0
+14
+0
+154
+0
+1,300
+0
+12,742
+0
+18,165
+0
+33,635
+0
+45,001
+0
+57,922
+0
+65,948
+0
+55,457
+0
+46,454
+12
+35
+18,762
+47 355,556
+
+0 290,340
+0 119,027
+
+–-
+
+2.44
+
+Development 
+Factor
+
+1.00
+1.08
+1.24
+1.54
+1.77
+2.02
+2.46
+2.94
+2.84
+2.96
+3.95
+8.96
+2.73
+
+2.50
+2.90
+
+0.86
+
+218
+14
+
+Updated 1915-1974 116,314 71,464 44,150 27,412 16,302 8,874 4,218 1,377
+Original 1915-1974
+40,994 30,503 20,813 13,046 7,197 3,918 2,105
+510
+Ratio of 
+Updated/Original
+
+2.27
+
+2.27
+
+2.10
+
+2.00
+
+2.70 15.59
+
+2.84
+
+2.34
+
+2.12
+
+The bottom three rows of Table 1 present, respectively:
+• The updated projected total for exposure starts during 1915–1974.
+• The corresponding original projected total for exposure starts during 1915–1974 from my 
+1994  analysis  (obtained  from  the  asbestos-related  disease  categories  1–7  in  my  June  18 
+report).
+• The rat ios of the updated to the original projected totals, for exposure starts during 1915–
+1974.
+
+The  results  in  Table  1  show  that the  projected  number  o f  claims  increases  by  a  factor  of  2.44 
+from  119,027  to  290,340 claims.    This  increase is consistent  with  increases  for  Grace  and  other 
+asbestos defendants noted in Part I and in the other expert reports and with the  increases noted  in 
+Stallard (2001) and Stallard et al. (2005).  
+
+The  results  in Table 1 also show a 14% decline  in  the 1915–1974 development  factor,  from 2.90 
+to 2.50.  This means that the updated projection starts at a higher level but declines more rapidly.  
+
+Table 2 presents the corresponding results for claims for malignant disease injuries.  
+24
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 26 of 33
+
+Table 2: Updated Projections of the Number of Malignancy Claims Against the Manville Trust, Males, U.S. and Canada
+
+Date of First 
+Exposure
+1915-1919
+1920-1924
+1925-1929
+1930-1934
+1935-1939
+1940-1944
+1945-1949
+1950-1954
+1955-1959
+1960-1964
+1965-1969
+1970-1974
+1975-1979
+1980-1984
+Total
+
+Updated 1915-1974
+Original 1915-1974
+Ratio of 
+Updated/Original
+
+Date of Claim
+2025-
+2040-
+2035-
+2030-
+2020-
+2015-
+2010-
+2005-
+2044
+2039
+2034
+2029
+2024
+2019
+2014
+2009
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+5
+50
+0
+0
+0
+0
+0
+9
+342
+92
+0
+0
+0
+0
+41
+357
+2,563 1,371
+0
+0
+0
+15
+212
+2,738 1,847
+910
+0
+0
+244
+21
+3,966 2,945 1,966
+946
+0
+14
+222
+3,769 3,492 2,629 1,795
+916
+15
+232
+3,138 3,478 3,265 2,509 1,737
+986
+148
+2,647 2,847 3,057 2,798 2,097 1,468
+761
+533
+1,452 1,700 1,780 1,857 1,760 1,331 1,027
+598
+932
+671 1,133 1,199 1,286 1,220 1,153
+122
+280
+315
+480
+469
+443
+417
+438
+21,463 19,224 15,652 11,911 8,432 5,598 3,404 1,574
+
+2045-
+2049
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+127
+307
+203
+648
+
+20,669 17,777 13,972 10,157 6,769 4,028 2,034
+10,949 9,372 7,368 5,396 3,422 1,969 1,217
+
+696
+295
+
+138
+14
+
+1.89
+
+1.90
+
+1.90
+
+1.88
+
+1.98
+
+2.05
+
+1.67
+
+2.36
+
+9.97
+
+2050-
+2054
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+46
+78
+132
+
+8
+0
+
+–-
+
+2055-
+2059
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+19
+26
+
+0
+0
+
+–-
+
+Total
+0
+0
+5
+55
+442
+4,332
+5,720
+10,088
+12,838
+15,361
+15,831
+11,575
+8,551
+3,265
+88,063
+
+76,248
+39,930
+
+1.91
+
+Development 
+Factor
+
+1.00
+1.10
+1.29
+1.69
+2.09
+2.54
+3.41
+4.89
+5.98
+7.97
+12.75
+26.66
+4.10
+
+3.69
+3.65
+
+1.01
+
+Compared  with Table  1,  the  results  in  Table  2  for  malignancies  indicate  a  very  significant  but 
+smaller increase in the total number of claims, increasing by a factor of 1.91 compared to 2.44 in 
+Table  1,  and  a  1%  increase  in  the  1915–1974  development  factor  (from  3.65  to  3.69)  compared 
+to a 14% decrease in Table 1.  
+
+Most  significant  is  the  finding  that  the  overall  development  factor  for  malignancies  is 
+significant ly  higher  than  for  all  claims,  increasing  from  2.73  to  4.10.   Table  6  below  shows  that 
+the  reason  for  this  difference  is  that  the  development  factor  for  nonmalignancies  is  substant ially 
+lower,  at  2.46.    These  results  provide  addit ional  support  for  the opinion  stated  in  Part  I  that  the 
+number  of  claims  for  nonmalignancies  cannot  be  validly  expressed  as  a  simple  rat io of the 
+number of claims for malignancies.  
+
+Table 3 presents the corresponding results for mesothelioma claims.  
+
+Compared with Table  2, the  results  in Table  3  for mesothelioma  indicate  a  larger  increase  in  the 
+total number  of  claims,  increasing  by  a  factor  of  2.31  compared  to  1.91  in  Table  2,  and  a  7% 
+increase  in  the 1915–1974 development factor (from 3.71  to 3.97) compared  to a 1%  increase  in 
+Table 2.  
+
+The  7%  increase  in  the  mesothelioma  development  factor  is  consistent  with  results  reported  by 
+the National Center for Health Statistics  in Health, United States 2006 (Table 48; reference 14 in 
+the  first sect ion) showing  that mesothelioma deaths  cont inued  to  increase  at  least  to  2004.   This 
+differs  from  earlier  results  reported  in  Stallard  (2001)  based  on  SEER  data  (reference  7  in  the 
+first section) which  indicated  that mesothelioma  incidence  appeared  to  have  peaked  by  the mid-
+1990s.    This  also  differs  from  the  Nicho lson/KPMG  Method  used  by  Florence  which  produced 
+its  peak  mesothelioma  incidence  in  1995.    The  7%  increase  in  the  mesothelioma  development 
+factor translates directly  into a 7% downward bias in all project ions that fail to take these updates 
+into account.  
+
+25
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 27 of 33
+
+Table 3: Updated Projections of the Number of Mesothelioma Claims Against the Manville Trust, Males, U.S. and Canada
+
+Date of First 
+Exposure
+1915-1919
+1920-1924
+1925-1929
+1930-1934
+1935-1939
+1940-1944
+1945-1949
+1950-1954
+1955-1959
+1960-1964
+1965-1969
+1970-1974
+1975-1979
+1980-1984
+Total
+
+Updated 1915-1974
+Original 1915-1974
+Ratio of 
+Updated/Original
+
+Date of Claim
+2025-
+2035-
+2030-
+2020-
+2015-
+2010-
+2005-
+2039
+2034
+2029
+2024
+2019
+2014
+2009
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+3
+24
+0
+0
+0
+0
+4
+43
+153
+0
+0
+0
+20
+173
+648
+1,207
+0
+0
+7
+109
+429
+1,149
+867
+0
+120
+12
+459
+1,525 1,252
+931
+7
+121
+461
+1,431 1,352 1,113
+879
+119
+463
+831
+1,182 1,325 1,261 1,054
+919
+728
+388
+915 1,101 1,210 1,134
+504
+585
+717
+777
+726
+623
+467
+420
+497
+533
+509
+437
+333
+221
+53
+184
+200
+169
+94
+130
+178
+8,330 7,642 6,415 5,119 3,773 2,605 1,607
+
+2040-
+2044
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+83
+263
+311
+131
+796
+
+2045-
+2049
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+67
+155
+113
+341
+
+8,056 7,215 5,848 4,432 3,056 1,909 1,018
+440
+719
+3,730 3,201 2,506 1,858 1,238
+
+354
+128
+
+73
+2
+
+2.16
+
+2.25
+
+2.33
+
+2.38
+
+2.47
+
+2.65
+
+2.31
+
+2.77 40.33
+
+2050-
+2054
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+29
+47
+81
+
+5
+0
+
+–-
+
+2055-
+2059
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+11
+17
+
+0
+0
+
+–-
+
+Total
+0
+0
+3
+26
+201
+2,048
+2,561
+4,300
+5,365
+6,244
+6,484
+4,734
+3,450
+1,312
+36,726
+
+31,964
+13,823
+
+2.31
+
+Development 
+Factor
+
+1.00
+1.11
+1.31
+1.70
+2.23
+2.82
+3.75
+5.28
+7.09
+10.13
+15.62
+24.57
+4.41
+
+3.97
+3.71
+
+1.07
+
+Table  3  shows that  13.0%  of mesothelioma  claims  are  projected  to  arise  from  exposure  starts 
+during 1975–1984, another source of downward bias in project ions such as Florence’s that fail to 
+fully take these later exposure starts into account.  
+
+Table 4 presents the corresponding results for lung cancer claims.  
+
+Table 4: Updated Projections of the Number of Lung Cancer Claims Against the Manville Trust, Males, U.S. and Canada
+
+Date of First 
+Exposure
+1915-1919
+1920-1924
+1925-1929
+1930-1934
+1935-1939
+1940-1944
+1945-1949
+1950-1954
+1955-1959
+1960-1964
+1965-1969
+1970-1974
+1975-1979
+1980-1984
+Total
+
+Date of Claim
+2025-
+2035-
+2030-
+2020-
+2015-
+2005-
+2010-
+2039
+2034
+2029
+2024
+2019
+2009
+2014
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+22
+2
+0
+0
+0
+0
+3
+144
+39
+0
+0
+0
+14
+148
+1,028
+535
+5
+0
+0
+82
+367
+1,246
+736
+0
+7
+96
+376
+1,943 1,322
+774
+5
+345
+80
+1,893 1,720 1,184
+698
+90
+405
+698
+1,557 1,744 1,597 1,140
+266
+555
+903
+1,366 1,383 1,491 1,328
+815
+568
+387
+769
+851
+828
+877
+402
+504
+559
+622
+605
+626
+359
+58
+209
+175
+212
+174
+259
+224
+10,386 9,131 7,255 5,360 3,628 2,295 1,362
+
+2040-
+2044
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+53
+202
+220
+115
+595
+
+Updated 1915-1974
+Original 1915-1974
+Ratio of 
+Updated/Original
+
+9,969 8,332 6,392 4,514 2,861 1,615
+5,630 4,824 3,825 2,791 1,729 1,025
+
+749
+667
+
+260
+129
+
+1.77
+
+1.73
+
+1.67
+
+1.62
+
+1.65
+
+1.58
+
+1.12
+
+2.01
+
+2045-
+2049
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+53
+122
+74
+253
+
+56
+0
+
+–-
+
+2050-
+2054
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+11
+23
+37
+
+3
+0
+
+–-
+
+2055-
+2059
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+8
+9
+
+0
+0
+
+–-
+
+Total
+0
+0
+2
+23
+187
+1,725
+2,435
+4,518
+5,924
+7,236
+7,347
+5,354
+4,032
+1,529
+40,312
+
+34,750
+20,621
+
+1.69
+
+Development 
+Factor
+
+1.00
+1.08
+1.30
+1.68
+1.95
+2.33
+3.13
+4.65
+5.38
+6.96
+11.25
+26.35
+3.88
+
+3.49
+3.66
+
+0.95
+
+Compared with Table 2,  the  results  in  Table  4  for  lung  cancer  indicate  a  smaller  increase  in  the 
+total number  of  claims,  increasing  by  a  factor  of  1.69  compared  to 1.91  in  Table  2,  and  a  5% 
+decrease  in  the 1915–1974 development  factor  (from 3.66  to 3.49) compared  to a 1%  increase  in 
+Table 2.  
+
+26
+
+Case 01-01139-KJC    Doc 17006-1    Filed 10/05/07    Page 28 of 33
+
+Table  4  shows  that  13.8%  of  lung  cancer  claims  are  projected  to  arise  from  exposure  starts 
+during 1975–1984. 
+
+Table 5 presents the corresponding results for claims for other cancer injuries.  
+
+Compared  with the  results  in  Table  2,  the  results  in  Table  5  for  other  cancer  also  indicate  a 
+smaller increase in the total number of claims, increasing by a factor of 1.74 compared to 1.91 in 
+Table  2,  and  a  4%  increase  in  the  1915–1974  development  factor  (from  3.45  to  3.61)  compared 
+to a 1% increase in Table 2.  
+
+Table  5  shows  that  13.5%  of  other  cancer  claims  are  projected  to  arise  from  exposure  starts 
+during 1975–1984. 
+
+Table 5: Updated Projections of the Number of Other Cancer Claims Against the Manville Trust, Males, U.S. and Canada
+
+Date of First 
+Exposure
+1915-1919
+1920-1924
+1925-1929
+1930-1934
+1935-1939
+1940-1944
+1945-1949
+1950-1954
+1955-1959
+1960-1964
+1965-1969
+1970-1974
+1975-1979
+1980-1984
+Total
+
+Date of Claim
+2025-
+2035-
+2030-
+2020-
+2015-
+2010-
+2005-
+2039
+2034
+2029
+2024
+2019
+2014
+2009
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+5
+0
+0
+0
+0
+1
+9
+44
+0
+0
+0
+7
+36
+188
+328
+2
+0
+0
+21
+114
+244
+343
+0
+2
+28
+111
+260
+370
+498
+2
+110
+22
+218
+332
+420
+445
+23
+118
+209
+314
+407
+409
+399
+107
+184
+275
+336
+356
+363
+366
+228
+178
+136
+203
+225
+226
+215
+110
+151
+129
+155
+157
+174
+91
+57
+11
+50
+42
+67
+92
+47
+698
+2,746 2,451 1,981 1,432 1,031
+434
+
+2040-
+2044
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+12
+68
+67
+34
+184
+
+2045-
+2049
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+7
+30
+16
+54
+
+Updated 1915-1974
+Original 1915-1974
+Ratio of 
+Updated/Original
+
+2,644 2,230 1,732 1,210
+1,588 1,348 1,036
+747
+
+852
+455
+
+505
+225
+
+268
+109
+
+82
+39
+
+9
+12
+
+1.66
+
+1.65
+
+1.67
+
+1.62
+
+1.87
+
+2.24
+
+2.45
+
+2.13
+
+0.72
+
+2050-
+2054
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+5
+8
+14
+
+1
+0
+
+–-
+
+2055-
+2059
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+
+0
+0
+
+–-
+
+Total
+0
+0
+1
+6
+54
+559
+724
+1,270
+1,549
+1,881
+2,001
+1,487
+1,069
+424
+11,026
+
+9,533
+5,487
+
+1.74
+
+Development 
+Factor
+
+1.00
+1.16
+1.24
+1.70
+2.11
+2.55
+3.48
+4.71
+5.47
+6.91
+11.70
+38.35
+4.01
+
+3.61
+3.45
+
+1.04
+
+Table 6 presents the corresponding results for nonmalignant disease claims.  
+
+Compared with Table 1, the results in Table 6 for nonmalignancies indicate a substant ially  larger 
+increase  in  the  total  number  of  claims,  increasing  by  a  factor  of  2.71  compared  to 2.44 in Table 
+1,  and  a  15%  decrease  in  the  1915–1974  development  factor  (from  2.63  to  2.44)  compared  to  a 
+14% decrease in Table 1.  
+
+Table  6  shows  that  20.0%  of  nonmaligancy  claims  are  projected  to  arise  from  exposure  starts 
+during 1975–1984.  
+
+The 15% decline  in  the 1915–1974 nonmalignancy development  factor  in Table 6 contrasts with 
+the  1%  increase  in  the  1915–1974  malignancy  development  factor  in  Table  2,  and  the  7% 
+increase  in  the  1915–1974  mesothelioma  development  factor  in  Table  3.    These  differences 
+indicate that cancer claims, especially mesothelioma, will cont inue to be filed at a runoff rate that 
+is at least as high as est imated in my 1994 analysis.  
+27
+
+
