@@ -12,10 +12,14 @@ in the attached by Stallard Tables 3-6 -- just need the upper block Date of firs
 
 ```{r read-table-fnc}
   projyears=seq(2009,2059,5)
-rdtbl<-function(infile){
-  cnames<-c("date.first.exposure",projyears,"total","development.factor")
+  projvec=projyears[1]:projyears[11]
+  nproj=length(projvec)
+
+rdtbl<-function(infile,inj){
+  cnames<-c("exp.year",projyears,"total","development.factor")
   tbl=read.delim(infile,header=F,sep=" ")
   colnames(tbl)=cnames
+  tbl$injury=inj
   str(tbl)
   print(tbl)
   return(tbl)
@@ -24,10 +28,11 @@ rdtbl<-function(infile){
 ```
 
 ```{r read-tables}
-table3=rdtbl("table3.txt")
-table4=rdtbl("table4.txt")
-table5=rdtbl("table5.txt")
-table6=rdtbl("table6.txt")
+table3=rdtbl("table3.txt","meso")
+table4=rdtbl("table4.txt","lung")
+table5=rdtbl("table5.txt","othc")
+table6=rdtbl("table6.txt","asbp")
+basedf=rbind(table3,table4,table5,table6)
 ```
 2
 Build a set of data frames in which the dates of claims are by single year, not 5-year groups
@@ -38,40 +43,53 @@ Go from cumulative back to indiv year counts by subtraction
 (Standard demographic stuff)
 
 ```{r interpolate}
+    sps=function(sdf){
+      ss=spline(x=sdf$year,y=sdf$claims,n=5,xout=projvec)
+      spsdf=data.frame(year=ss$x,claims.cum.proj=ss$y,claims.proj=ss$y)
+      ns=nrow(spsdf)
+      spsdf$claims.proj[2:ns]=spsdf$claims.proj[2:ns]-spsdf$claims.proj[1:(ns-1)]
+      return(spsdf)
+      }
+
 sdata<-function(df) {
-  tbl<-df[,1:12]
-    for (cc in 3:12) {
+  tbl<-df[,2:12]
+      for (cc in 2:11) {
     tbl[,cc]=tbl[,cc]+tbl[cc-1]
   }
 
-  tall=melt(tbl)
-  tall=tall[order(tall$date.first.exposure),]
-  sdf=data.frame(exposure=tall$date.first.exposure,claims=tall$value,year=projyears[as.numeric(tall$variable)])
+  #print(df)
+  tbl$exp.year=as.numeric(substring(df$exp.year,1,4))
+  tbl$injury=df$injury
+  print(tbl)
+  tall=melt(tbl,id=c("injury","exp.year"),variable.name="claim.year",value.name="claims",stringsAsFactors=F)
+  tall$year=as.numeric(as.character(tall$claim.year))
+  str(tall)
+  tall$exp.to.claim=with(tall,year-exp.year)
+  #tall=tall[order(tall$injury,tall$exp.year),]
+#  sdf=data.frame(exposure=tall$exp.year,claims=tall$value,year=projyears[as.numeric(tall$variable)])
   #okay so we have 14 exposure periods of 11 obs each
-  projvec=projyears[1]:projyears[11]
-  nproj=length(projvec)
-  xdf=data.frame(data.first.exposure=character(),year=numeric(),cum.proj=numeric(),inc.proj=numeric())
-  for (exp in 1:14) {
-    rn=exp*11
-    r1=rn-11+1
-    sps=splinefun(x=projyears,y=sdf$claims[r1:rn])(projvec)
+#  xdf=data.frame(data.first.exposure=character(),year=numeric(),cum.proj=numeric(),inc.proj=numeric())
+ # for (exp in 1:14) {
+#    rn=exp*11
+#    r1=rn-11+1
     #print(sps)
 #decumulate
-    isps=sps
-    isps[2:nproj]=sps[2:nproj]-sps[1:(nproj-1)]
+  
+#  print(sdfx)
+    #isps=sps
+   # isps[2:nproj]=sps[2:nproj]-sps[1:(nproj-1)]
     #print(isps)
-              tdf=(data.frame(data.first.exposure=rep(df$date.first.exposure[exp],nproj),year=projvec,
-                             cum.proj=sps,inc.proj=isps))
+         #     tdf=(data.frame(data.first.exposure=rep(df$exp.year[exp],nproj),year=projvec,
+   #                          cum.proj=sps,inc.proj=isps))
    # g<-ggplot()+geom_line(data=tdf,aes(year,inc.proj))+geom_bar(data=sdf[r1:rn],aes(year,claims))
    # print(g)
-    xdf=rbind(xdf,tdf)
-  }
-    return(xdf)
+   # xdf=rbind(xdf,tdf)
+  #}
+    return(tall)
 }
-proj3=sdata(table3)
-proj4=sdata(table4)
-proj5=sdata(table5)
-proj6=sdata(table6)
+projectdf=sdata(basedf)
+  project=ddply(projectdf,c("injury","exp.year"),"sps")
+print(project)
 ```
 
 3
