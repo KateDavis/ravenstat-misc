@@ -20,8 +20,8 @@ rdtbl<-function(infile,inj){
   tbl=read.delim(infile,header=F,sep=" ")
   colnames(tbl)=cnames
   tbl$injury=inj
-  str(tbl)
-  print(tbl)
+ # str(tbl)
+#  print(tbl)
   return(tbl)
 }
 
@@ -44,7 +44,8 @@ Go from cumulative back to indiv year counts by subtraction
 
 ```{r interpolate}
     sps=function(sdf){
-      ss=spline(x=sdf$year,y=sdf$claims,n=5,xout=projvec)
+      print(sdf)
+      ss=spline(x=sdf$year,y=sdf$claims,method="hyman",xout=projvec)
       spsdf=data.frame(year=ss$x,claims.cum.proj=ss$y,claims.proj=ss$y)
       ns=nrow(spsdf)
       spsdf$claims.proj[2:ns]=spsdf$claims.proj[2:ns]-spsdf$claims.proj[1:(ns-1)]
@@ -57,13 +58,15 @@ sdata<-function(df) {
     tbl[,cc]=tbl[,cc]+tbl[cc-1]
   }
 
-  #print(df)
+#  print(df)
+ # print(tbl)
   tbl$exp.year=as.numeric(substring(df$exp.year,1,4))
   tbl$injury=df$injury
+  tbl=tbl[order(tbl$injury,tbl$exp.year),]
   print(tbl)
   tall=melt(tbl,id=c("injury","exp.year"),variable.name="claim.year",value.name="claims",stringsAsFactors=F)
   tall$year=as.numeric(as.character(tall$claim.year))
-  str(tall)
+  #str(tall)
   tall$exp.to.claim=with(tall,year-exp.year)
   #tall=tall[order(tall$injury,tall$exp.year),]
 #  sdf=data.frame(exposure=tall$exp.year,claims=tall$value,year=projyears[as.numeric(tall$variable)])
@@ -81,15 +84,17 @@ sdata<-function(df) {
     #print(isps)
          #     tdf=(data.frame(data.first.exposure=rep(df$exp.year[exp],nproj),year=projvec,
    #                          cum.proj=sps,inc.proj=isps))
-   # g<-ggplot()+geom_line(data=tdf,aes(year,inc.proj))+geom_bar(data=sdf[r1:rn],aes(year,claims))
-   # print(g)
-   # xdf=rbind(xdf,tdf)
-  #}
     return(tall)
 }
 projectdf=sdata(basedf)
-  project=ddply(projectdf,c("injury","exp.year"),"sps")
-print(project)
+print(projectdf)
+  projectp=ddply(projectdf,c("injury","exp.year"),"sps")
+print(projectp)
+    g<-ggplot(projectdf,aes(exp.year,claims))+geom_bar(stat="identity")+facet_grid(.~injury)
+    g<-ggplot(projectp,aes(exp.year,claims.cum.proj))+geom_bar(stat="identity")+facet_grid(.~injury)
+   # print(g)
+   # xdf=rbind(xdf,tdf)
+  #}
 ```
 
 3
