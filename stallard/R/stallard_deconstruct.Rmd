@@ -44,7 +44,7 @@ Go from cumulative back to indiv year counts by subtraction
 
 ```{r interpolate}
     sps=function(sdf){
-      print(sdf)
+      #print(sdf)
       ss=spline(x=sdf$year,y=sdf$claims,method="hyman",xout=projvec)
       spsdf=data.frame(year=ss$x,claims.cum.proj=ss$y,claims.proj=ss$y)
       ns=nrow(spsdf)
@@ -54,16 +54,16 @@ Go from cumulative back to indiv year counts by subtraction
 
 sdata<-function(df) {
   tbl<-df[,2:12]
-      for (cc in 2:11) {
-    tbl[,cc]=tbl[,cc]+tbl[cc-1]
-  }
+  #    for (cc in 2:11) {
+  #  tbl[,cc]=tbl[,cc]+tbl[cc-1]
+  #}
 
 #  print(df)
  # print(tbl)
   tbl$exp.year=as.numeric(substring(df$exp.year,1,4))
   tbl$injury=df$injury
   tbl=tbl[order(tbl$injury,tbl$exp.year),]
-  print(tbl)
+  #print(tbl)
   tall=melt(tbl,id=c("injury","exp.year"),variable.name="claim.year",value.name="claims",stringsAsFactors=F)
   tall$year=as.numeric(as.character(tall$claim.year))
   #str(tall)
@@ -86,12 +86,15 @@ sdata<-function(df) {
    #                          cum.proj=sps,inc.proj=isps))
     return(tall)
 }
-projectdf=sdata(basedf)
-print(projectdf)
+projectt=sdata(basedf)
+projectdf=recast(projectt,.~exp.to.claim,id.var=c("injury","exp.year"), fun.aggregate="sum",value.var="claims")
+#print(projectdf)
   projectp=ddply(projectdf,c("injury","exp.year"),"sps")
-print(projectp)
-    g<-ggplot(projectdf,aes(exp.year,claims))+geom_bar(stat="identity")+facet_grid(.~injury)
-    g<-ggplot(projectp,aes(exp.year,claims.cum.proj))+geom_bar(stat="identity")+facet_grid(.~injury)
+#print(projectp)
+    g<-ggplot(projectdf,aes(claim.year,claims))+geom_bar(stat="identity")+facet_grid(exp.year~injury)
+print(g)
+    g<-ggplot(projectp,aes(year,claims.cum.proj))+geom_bar(stat="identity")+facet_grid(exp.year~injury)
+print(g)
    # print(g)
    # xdf=rbind(xdf,tdf)
   #}
